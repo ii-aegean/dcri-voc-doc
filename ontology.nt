@@ -2677,27 +2677,6 @@ _:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/20
 <http://w3id.org/dcri-ont/vocabulary/concept_00263> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actor type (vocabulary top concept)"@en .
 <http://w3id.org/dcri-ont/vocabulary/concept_00263> <http://www.w3.org/2004/02/skos/core#prefLabel> "Τύπος δράστη"@el .
 # 
-# http://w3id.org/dcri-ont/vocabulary/concept_00266
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/2004/02/skos/core#inScheme> <http://w3id.org/dcri-ont/vocabulary/conceptscheme> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/2004/02/skos/core#narrower> <http://w3id.org/dcri-ont/vocabulary/concept_00267> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://w3id.org/dcri-ont/vocabulary/conceptscheme> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/2000/01/rdf-schema#label> "Requirement assessment type (vocabulary top concept)"@en .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/2000/01/rdf-schema#label> "Τύπος αξιολόγησης απαίτησης"@el .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/2004/02/skos/core#prefLabel> "Requirement assessment type (vocabulary top concept)"@en .
-<http://w3id.org/dcri-ont/vocabulary/concept_00266> <http://www.w3.org/2004/02/skos/core#prefLabel> "Τύπος αξιολόγησης απαίτησης"@el .
-# 
-# http://w3id.org/dcri-ont/vocabulary/concept_00267
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/2004/02/skos/core#broader> <http://w3id.org/dcri-ont/vocabulary/concept_00266> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/2004/02/skos/core#inScheme> <http://w3id.org/dcri-ont/vocabulary/conceptscheme> .
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/2000/01/rdf-schema#label> "Not satisfied requirement"@en .
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/2000/01/rdf-schema#label> "Απαίτηση που δεν ικανοποιείται"@el .
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Not satisfied requirement"@en .
-<http://w3id.org/dcri-ont/vocabulary/concept_00267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Απαίτηση που δεν ικανοποιείται"@el .
-# 
 # http://w3id.org/dcri-ont/vocabulary/conceptscheme
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#NamedIndividual> .
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
@@ -2710,7 +2689,6 @@ _:genid1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/20
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://w3id.org/dcri-ont/vocabulary/concept_00228> .
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://w3id.org/dcri-ont/vocabulary/concept_00251> .
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://w3id.org/dcri-ont/vocabulary/concept_00263> .
-<http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://w3id.org/dcri-ont/vocabulary/concept_00266> .
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://purl.org/dc/terms/title> "DCRIO Vocabulary"@en .
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://purl.org/dc/terms/title> "DCRIO Λεξιλόγιο"@el .
 <http://w3id.org/dcri-ont/vocabulary/conceptscheme> <http://www.w3.org/2000/01/rdf-schema#label> "DCRIO Vocabulary"@en .

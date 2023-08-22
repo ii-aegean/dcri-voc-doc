@@ -6415,61 +6415,6 @@
     "@id" : "http://w3id.org/dcri-ont/vocabulary/conceptscheme"
   } ]
 }, {
-  "@id" : "http://w3id.org/dcri-ont/vocabulary/concept_00266",
-  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
-  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
-    "@id" : "http://www.w3.org/2004/02/skos/core#Concept"
-  } ],
-  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@language" : "en",
-    "@value" : "Requirement assessment type (vocabulary top concept)"
-  }, {
-    "@language" : "el",
-    "@value" : "Τύπος αξιολόγησης απαίτησης"
-  } ],
-  "http://www.w3.org/2004/02/skos/core#inScheme" : [ {
-    "@id" : "http://w3id.org/dcri-ont/vocabulary/conceptscheme"
-  } ],
-  "http://www.w3.org/2004/02/skos/core#narrower" : [ {
-    "@id" : "http://w3id.org/dcri-ont/vocabulary/concept_00267"
-  } ],
-  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
-    "@language" : "en",
-    "@value" : "Requirement assessment type (vocabulary top concept)"
-  }, {
-    "@language" : "el",
-    "@value" : "Τύπος αξιολόγησης απαίτησης"
-  } ],
-  "http://www.w3.org/2004/02/skos/core#topConceptOf" : [ {
-    "@id" : "http://w3id.org/dcri-ont/vocabulary/conceptscheme"
-  } ]
-}, {
-  "@id" : "http://w3id.org/dcri-ont/vocabulary/concept_00267",
-  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
-  "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
-    "@id" : "http://www.w3.org/2004/02/skos/core#Concept"
-  } ],
-  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@language" : "en",
-    "@value" : "Not satisfied requirement"
-  }, {
-    "@language" : "el",
-    "@value" : "Απαίτηση που δεν ικανοποιείται"
-  } ],
-  "http://www.w3.org/2004/02/skos/core#broader" : [ {
-    "@id" : "http://w3id.org/dcri-ont/vocabulary/concept_00266"
-  } ],
-  "http://www.w3.org/2004/02/skos/core#inScheme" : [ {
-    "@id" : "http://w3id.org/dcri-ont/vocabulary/conceptscheme"
-  } ],
-  "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
-    "@language" : "en",
-    "@value" : "Not satisfied requirement"
-  }, {
-    "@language" : "el",
-    "@value" : "Απαίτηση που δεν ικανοποιείται"
-  } ]
-}, {
   "@id" : "http://w3id.org/dcri-ont/vocabulary/conceptscheme",
   "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual" ],
   "http://purl.org/dc/terms/title" : [ {
@@ -6507,8 +6452,6 @@
     "@id" : "http://w3id.org/dcri-ont/vocabulary/concept_00251"
   }, {
     "@id" : "http://w3id.org/dcri-ont/vocabulary/concept_00263"
-  }, {
-    "@id" : "http://w3id.org/dcri-ont/vocabulary/concept_00266"
   } ],
   "http://www.w3.org/2004/02/skos/core#prefLabel" : [ {
     "@language" : "en",

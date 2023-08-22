@@ -2877,29 +2877,6 @@ A secondary objective of the vocabulary is the development of a vocabulary for t
                                                                "Τύπος δράστη"@el .
 
 
-###  http://w3id.org/dcri-ont/vocabulary/concept_00266
-:concept_00266 rdf:type owl:NamedIndividual ,
-                        <http://www.w3.org/2004/02/skos/core#Concept> ;
-               <http://www.w3.org/2004/02/skos/core#inScheme> :conceptscheme ;
-               <http://www.w3.org/2004/02/skos/core#narrower> :concept_00267 ;
-               <http://www.w3.org/2004/02/skos/core#topConceptOf> :conceptscheme ;
-               rdfs:label "Requirement assessment type (vocabulary top concept)"@en ,
-                          "Τύπος αξιολόγησης απαίτησης"@el ;
-               <http://www.w3.org/2004/02/skos/core#prefLabel> "Requirement assessment type (vocabulary top concept)"@en ,
-                                                               "Τύπος αξιολόγησης απαίτησης"@el .
-
-
-###  http://w3id.org/dcri-ont/vocabulary/concept_00267
-:concept_00267 rdf:type owl:NamedIndividual ,
-                        <http://www.w3.org/2004/02/skos/core#Concept> ;
-               <http://www.w3.org/2004/02/skos/core#broader> :concept_00266 ;
-               <http://www.w3.org/2004/02/skos/core#inScheme> :conceptscheme ;
-               rdfs:label "Not satisfied requirement"@en ,
-                          "Απαίτηση που δεν ικανοποιείται"@el ;
-               <http://www.w3.org/2004/02/skos/core#prefLabel> "Not satisfied requirement"@en ,
-                                                               "Απαίτηση που δεν ικανοποιείται"@el .
-
-
 ###  http://w3id.org/dcri-ont/vocabulary/conceptscheme
 :conceptscheme rdf:type owl:NamedIndividual ,
                         <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
@@ -2911,8 +2888,7 @@ A secondary objective of the vocabulary is the development of a vocabulary for t
                                                                    :concept_00227 ,
                                                                    :concept_00228 ,
                                                                    :concept_00251 ,
-                                                                   :concept_00263 ,
-                                                                   :concept_00266 ;
+                                                                   :concept_00263 ;
                <http://purl.org/dc/terms/title> "DCRIO Vocabulary"@en ,
                                                 "DCRIO Λεξιλόγιο"@el ;
                rdfs:label "DCRIO Vocabulary"@en ,

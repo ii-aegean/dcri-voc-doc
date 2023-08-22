@@ -41,13 +41,13 @@
   },
   "namespace" : [ ],
   "class" : [ {
-    "id" : "5",
+    "id" : "1",
     "type" : "owl:Class"
   }, {
     "id" : "15",
     "type" : "owl:unionOf"
   }, {
-    "id" : "1",
+    "id" : "7",
     "type" : "owl:Thing"
   }, {
     "id" : "11",
@@ -59,7 +59,7 @@
     "id" : "22",
     "type" : "owl:Class"
   }, {
-    "id" : "2",
+    "id" : "8",
     "type" : "owl:Class"
   }, {
     "id" : "16",
@@ -106,13 +106,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Κολλώδες",
+          "language" : "en",
+          "value" : "Stickiness",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Stickiness",
+          "language" : "el",
+          "value" : "Κολλώδες",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -142,24 +142,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Εμποτισμένη επικάθιση",
+          "language" : "en",
+          "value" : "Ingrained deposit",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Ingrained deposit",
+          "language" : "el",
+          "value" : "Εμποτισμένη επικάθιση",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "A mass or layer of matter of varying thickness that has subsided or been precipitated from a fluid medium onto another mass of material, or has collected in one place by any natural process. The bond of the ingrained deposit to the surface is firm.",
+          "language" : "el",
+          "value" : "Μάζα ή στρώμα ύλης ποικίλου πάχους που έχει καθιζάνει ή καταβυθιστεί από ένα ρευστό μέσο σε μια άλλη μάζα υλικού ή έχει συγκεντρωθεί σε ένα μέρος με οποιαδήποτε φυσική διαδικασία. Οι δυνάμεις που συγκρατούν την εμποτισμένη επικάθιση στην επιφάνεια είναι ισχυρές.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Μάζα ή στρώμα ύλης ποικίλου πάχους που έχει καθιζάνει ή καταβυθιστεί από ένα ρευστό μέσο σε μια άλλη μάζα υλικού ή έχει συγκεντρωθεί σε ένα μέρος με οποιαδήποτε φυσική διαδικασία. Οι δυνάμεις που συγκρατούν την εμποτισμένη επικάθιση στην επιφάνεια είναι ισχυρές.",
+          "language" : "en",
+          "value" : "A mass or layer of matter of varying thickness that has subsided or been precipitated from a fluid medium onto another mass of material, or has collected in one place by any natural process. The bond of the ingrained deposit to the surface is firm.",
           "type" : "label"
         } ]
       },
@@ -235,13 +235,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Θέση αντικειμένου συντήρησης",
+          "language" : "en",
+          "value" : "Conservation object's location (vocabulary top concept)",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Conservation object's location (vocabulary top concept)",
+          "language" : "el",
+          "value" : "Θέση αντικειμένου συντήρησης",
           "type" : "label"
         } ]
       },
@@ -256,13 +256,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Βιολογική προσβολή",
+          "language" : "en",
+          "value" : "Biological attack",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Biological attack",
+          "language" : "el",
+          "value" : "Βιολογική προσβολή",
           "type" : "label"
         } ]
       },
@@ -298,24 +298,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Έκταση εφαρμογής",
+          "language" : "en",
+          "value" : "Application extent",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Application extent",
+          "language" : "el",
+          "value" : "Έκταση εφαρμογής",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to the extent on which an intervention procedure is applied.",
+          "language" : "el",
+          "value" : "Αναφέρεται στην έκταση στην οποία εφαρμόζεται μια διαδικασία επέμβασης.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται στην έκταση στην οποία εφαρμόζεται μια διαδικασία επέμβασης.",
+          "language" : "en",
+          "value" : "It refers to the extent on which an intervention procedure is applied.",
           "type" : "label"
         } ]
       },
@@ -334,13 +334,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ανάγλυφο",
+          "language" : "en",
+          "value" : "Relief",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Relief",
+          "language" : "el",
+          "value" : "Ανάγλυφο",
           "type" : "label"
         } ]
       },
@@ -350,29 +350,50 @@
         "en" : "Relief"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00241",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Ground",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Προετοιμασία",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00241",
+        "el" : "Προετοιμασία",
+        "en" : "Ground"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00087",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απολέπιση",
+          "language" : "en",
+          "value" : "Flaking",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Flaking",
+          "language" : "el",
+          "value" : "Απολέπιση",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Διαχωρισμός σε λεπτά ίσια κομμάτια ή στρώματα.",
+          "language" : "en",
+          "value" : "Separating into thin flattened pieces or layers.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Separating into thin flattened pieces or layers.",
+          "language" : "el",
+          "value" : "Διαχωρισμός σε λεπτά ίσια κομμάτια ή στρώματα.",
           "type" : "label"
         } ]
       },
@@ -386,39 +407,18 @@
         "en" : "Flaking"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00241",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Προετοιμασία",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Ground",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00241",
-        "el" : "Προετοιμασία",
-        "en" : "Ground"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00088",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Powdering",
+          "language" : "el",
+          "value" : "Κονιορτοποίηση",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Κονιορτοποίηση",
+          "language" : "en",
+          "value" : "Powdering",
           "type" : "label"
         } ],
         "altLabel" : [ {
@@ -454,13 +454,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Gypsum",
+          "language" : "el",
+          "value" : "Γύψος",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Γύψος",
+          "language" : "en",
+          "value" : "Gypsum",
           "type" : "label"
         } ]
       },
@@ -496,13 +496,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Υπολείμματα κόλλας",
+          "language" : "en",
+          "value" : "Glue remains",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Glue remains",
+          "language" : "el",
+          "value" : "Υπολείμματα κόλλας",
           "type" : "label"
         } ]
       },
@@ -559,13 +559,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Conservator",
+          "language" : "el",
+          "value" : "Συντηρητής",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Συντηρητής",
+          "language" : "en",
+          "value" : "Conservator",
           "type" : "label"
         } ]
       },
@@ -612,13 +612,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται στην διαδικασία απομάκρυνσης βρωμιάς, ξένου υλικού, προιόντων αλλοίωσης, επικαλυπτικών υλικών, δυσχρωμιών ή οποιουδήποτε μη επιθυμητού υλικού από μια επιφάνεια.",
+          "language" : "en",
+          "value" : "It refers to the process of removing dirt, foreign matter, products of alteration, surface coatings, discolorations, or other undesired matter from a substrate.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to the process of removing dirt, foreign matter, products of alteration, surface coatings, discolorations, or other undesired matter from a substrate.",
+          "language" : "el",
+          "value" : "Αναφέρεται στην διαδικασία απομάκρυνσης βρωμιάς, ξένου υλικού, προιόντων αλλοίωσης, επικαλυπτικών υλικών, δυσχρωμιών ή οποιουδήποτε μη επιθυμητού υλικού από μια επιφάνεια.",
           "type" : "label"
         } ]
       },
@@ -637,13 +637,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Artist",
+          "language" : "el",
+          "value" : "Καλλιτέχνης",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Καλλιτέχνης",
+          "language" : "en",
+          "value" : "Artist",
           "type" : "label"
         } ]
       },
@@ -658,13 +658,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Consolidation",
+          "language" : "el",
+          "value" : "Στερέωση",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Στερέωση",
+          "language" : "en",
+          "value" : "Consolidation",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -694,13 +694,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Στερέωση",
+          "language" : "en",
+          "value" : "Fixing",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Fixing",
+          "language" : "el",
+          "value" : "Στερέωση",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -808,13 +808,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Relative humidity",
+          "language" : "el",
+          "value" : "Σχετική υγρασία",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Σχετική υγρασία",
+          "language" : "en",
+          "value" : "Relative humidity",
           "type" : "label"
         } ]
       },
@@ -843,6 +843,27 @@
         "IRI-based" : "concept_00259",
         "el" : "Ποσοστό",
         "en" : "Percentage"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00256",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Θερμοκρασία",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Temperature",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00256",
+        "el" : "Θερμοκρασία",
+        "en" : "Temperature"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00014",
@@ -881,39 +902,18 @@
         "en" : "Concentration"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00256",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Θερμοκρασία",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Temperature",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00256",
-        "el" : "Θερμοκρασία",
-        "en" : "Temperature"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00257",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Διάλυμα υγρού καθαρισμού",
+          "language" : "en",
+          "value" : "Wet cleaning solution",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Wet cleaning solution",
+          "language" : "el",
+          "value" : "Διάλυμα υγρού καθαρισμού",
           "type" : "label"
         } ]
       },
@@ -964,13 +964,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Καμβάς",
+          "language" : "en",
+          "value" : "Canvas",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Canvas",
+          "language" : "el",
+          "value" : "Καμβάς",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -1130,27 +1130,6 @@
         "en" : "Wet cleaning"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00266",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Τύπος αξιολόγησης απαίτησης",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Requirement assessment type (vocabulary top concept)",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00266",
-        "el" : "Τύπος αξιολόγησης απαίτησης",
-        "en" : "Requirement assessment type (vocabulary top concept)"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00021",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -1167,13 +1146,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται σε μια κατηγορία καθαρισμού, κατά την οποία η απομάκρυνση του μη επιθυμητού υλικού από μια επιφάνεια επιτυγχάνεται με την άσκηση δύναμης ώστε να σπάσει ο δεσμός μεταξύ του μη επιθυμητού υλικού και της επιφάνειας. Η άσκηση της δύναμης γίνεται χειροκίνητα, με την χρήση εργαλείων (π.χ. πινέλο, σπάτουλα) ή την βοήθεια άλλου εξοπλισμού (π.χ. φυσητήρας, πουάρ).",
+          "language" : "en",
+          "value" : "It refers to a cleaning category, during which the removing of undesired matter from a substrate is achieved through forces that break the bonds between the undesired matter and the substrate. The forces exertion is done mannually with various tools or with the aid of equipment.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to a cleaning category, during which the removing of undesired matter from a substrate is achieved through forces that break the bonds between the undesired matter and the substrate. The forces exertion is done mannually with various tools or with the aid of equipment.",
+          "language" : "el",
+          "value" : "Αναφέρεται σε μια κατηγορία καθαρισμού, κατά την οποία η απομάκρυνση του μη επιθυμητού υλικού από μια επιφάνεια επιτυγχάνεται με την άσκηση δύναμης ώστε να σπάσει ο δεσμός μεταξύ του μη επιθυμητού υλικού και της επιφάνειας. Η άσκηση της δύναμης γίνεται χειροκίνητα, με την χρήση εργαλείων (π.χ. πινέλο, σπάτουλα) ή την βοήθεια άλλου εξοπλισμού (π.χ. φυσητήρας, πουάρ).",
           "type" : "label"
         } ]
       },
@@ -1222,26 +1201,26 @@
           "value" : "Ξηρός καθαρισμός (χαρτί)",
           "type" : "label"
         } ],
-        "altLabel" : [ {
-          "identifier" : "altLabel",
-          "language" : "en",
-          "value" : "Surface cleaning",
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Αναφέρεται σε μια κατηγορία μηχανικού καθαρισμού, η οποία στοχεύει στην μείωση ή απομάκρυνση των επιφανειακών επικαθίσεων (π.χ. σκόνη, χώμα, περιττώματα εντόμων). Στο πλαίσιο της συντήρησης χαρτιού ο όρος χρησιμοποιείται για να περιγράψει τον καθαρισμό πιο συγκεκριμένα με την χρήση γόμας, πινέλου, υφάσματος, απορροφητικής σκούπας ή φυσητήρα.",
           "type" : "label"
         }, {
-          "identifier" : "altLabel",
-          "language" : "el",
-          "value" : "Επιφανειακός καθαρισμός",
-          "type" : "label"
-        } ],
-        "definition" : [ {
           "identifier" : "definition",
           "language" : "en",
           "value" : "It refers to a mechanical cleaning category, which aim to reduce or remove superficial deposits (e.g. dust, soil, insect droppings). In the context of paper conservation the term describes more particulalrly cleaning with the use of erasers, brush, cloth, vacuum or blower.",
           "type" : "label"
-        }, {
-          "identifier" : "definition",
+        } ],
+        "altLabel" : [ {
+          "identifier" : "altLabel",
           "language" : "el",
-          "value" : "Αναφέρεται σε μια κατηγορία μηχανικού καθαρισμού, η οποία στοχεύει στην μείωση ή απομάκρυνση των επιφανειακών επικαθίσεων (π.χ. σκόνη, χώμα, περιττώματα εντόμων). Στο πλαίσιο της συντήρησης χαρτιού ο όρος χρησιμοποιείται για να περιγράψει τον καθαρισμό πιο συγκεκριμένα με την χρήση γόμας, πινέλου, υφάσματος, απορροφητικής σκούπας ή φυσητήρα.",
+          "value" : "Επιφανειακός καθαρισμός",
+          "type" : "label"
+        }, {
+          "identifier" : "altLabel",
+          "language" : "en",
+          "value" : "Surface cleaning",
           "type" : "label"
         } ]
       },
@@ -1260,13 +1239,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Gel cleaning",
+          "language" : "el",
+          "value" : "Καθαρισμός με γέλη",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Καθαρισμός με γέλη",
+          "language" : "en",
+          "value" : "Gel cleaning",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -1296,24 +1275,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απόσταση εφαρμογής",
+          "language" : "en",
+          "value" : "Application distance",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Application distance",
+          "language" : "el",
+          "value" : "Απόσταση εφαρμογής",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται στην απόσταση από την οποία εφαρμόζεται μια διαδικασία επέμβασης.",
+          "language" : "en",
+          "value" : "It refers to the distance from which an intervention procedure is applied.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to the distance from which an intervention procedure is applied.",
+          "language" : "el",
+          "value" : "Αναφέρεται στην απόσταση από την οποία εφαρμόζεται μια διαδικασία επέμβασης.",
           "type" : "label"
         } ]
       },
@@ -1332,13 +1311,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Κλίμακα Κελσίου",
+          "language" : "en",
+          "value" : "Celsius scale",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Celsius scale",
+          "language" : "el",
+          "value" : "Κλίμακα Κελσίου",
           "type" : "label"
         } ]
       },
@@ -1353,13 +1332,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Laser cleaning",
+          "language" : "el",
+          "value" : "Καθαρισμός με laser",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Καθαρισμός με laser",
+          "language" : "en",
+          "value" : "Laser cleaning",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -1384,39 +1363,18 @@
         "en" : "Laser cleaning"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00267",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Not satisfied requirement",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απαίτηση που δεν ικανοποιείται",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00267",
-        "el" : "Απαίτηση που δεν ικανοποιείται",
-        "en" : "Not satisfied requirement"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00026",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Βιολογικός καθαρισμός",
+          "language" : "en",
+          "value" : "Biological cleaning",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Biological cleaning",
+          "language" : "el",
+          "value" : "Βιολογικός καθαρισμός",
           "type" : "label"
         } ],
         "altLabel" : [ {
@@ -1427,13 +1385,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to a cleaning category, during which the removing of undesired matter from a substrate is achieved through the use of living organisms and/or their enzymes as cleaning agents by controlled reproduction of their metabolic processes.",
+          "language" : "el",
+          "value" : "Αναφέρεται σε μια κατηγορία καθαρισμού, κατά την οποία η απομάκρυνση του μη επιθυμητού υλικού από μια επιφάνεια επιτυγχάνεται με την χρήση έμβιων οργανισμών και/ή των ενζύμων τους ως μέσα καθαρισμού με την ελεγχόμενη αναπαραγωγή των μεταβολικών τους διαδικασιών.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται σε μια κατηγορία καθαρισμού, κατά την οποία η απομάκρυνση του μη επιθυμητού υλικού από μια επιφάνεια επιτυγχάνεται με την χρήση έμβιων οργανισμών και/ή των ενζύμων τους ως μέσα καθαρισμού με την ελεγχόμενη αναπαραγωγή των μεταβολικών τους διαδικασιών.",
+          "language" : "en",
+          "value" : "It refers to a cleaning category, during which the removing of undesired matter from a substrate is achieved through the use of living organisms and/or their enzymes as cleaning agents by controlled reproduction of their metabolic processes.",
           "type" : "label"
         } ]
       },
@@ -1445,6 +1403,42 @@
         "IRI-based" : "concept_00026",
         "el" : "Βιολογικός καθαρισμός",
         "en" : "Biological cleaning"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00041",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Portability",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Φορητότητα",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Αναφέρεται στην ικανότητα ενός εξαρτήματος επέμβασης να μεταφέρεται από μια τοποθεσία σε μια άλλη",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "It refers to the ability of an intervention supply to be moved from one location to another.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Αναφέρεται στην ικανότητα ενός εξαρτήματος επέμβασης να μεταφέρεται από μια τοποθεσία σε μια άλλη",
+        "en" : "It refers to the ability of an intervention supply to be moved from one location to another."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00041",
+        "el" : "Φορητότητα",
+        "en" : "Portability"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00162",
@@ -1466,42 +1460,6 @@
         "IRI-based" : "concept_00162",
         "el" : "Βάθος",
         "en" : "Depth"
-      }
-    }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00041",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Φορητότητα",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Portability",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to the ability of an intervention supply to be moved from one location to another.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται στην ικανότητα ενός εξαρτήματος επέμβασης να μεταφέρεται από μια τοποθεσία σε μια άλλη",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Αναφέρεται στην ικανότητα ενός εξαρτήματος επέμβασης να μεταφέρεται από μια τοποθεσία σε μια άλλη",
-        "en" : "It refers to the ability of an intervention supply to be moved from one location to another."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00041",
-        "el" : "Φορητότητα",
-        "en" : "Portability"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00163",
@@ -1566,13 +1524,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Consolidant",
+          "language" : "el",
+          "value" : "Συγκολλητικό",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Συγκολλητικό",
+          "language" : "en",
+          "value" : "Consolidant",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -1597,18 +1555,39 @@
         "en" : "Consolidant"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00161",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Width",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Πλάτος",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00161",
+        "el" : "Πλάτος",
+        "en" : "Width"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00040",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Χώρος εκτέλεσης",
+          "language" : "en",
+          "value" : "Performance space",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Performance space",
+          "language" : "el",
+          "value" : "Χώρος εκτέλεσης",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -1633,56 +1612,35 @@
         "en" : "Performance space"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00161",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Πλάτος",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Width",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00161",
-        "el" : "Πλάτος",
-        "en" : "Width"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00155",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Μέσα σχεδίου",
+          "language" : "en",
+          "value" : "Design media",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Μέσα σχεδίου",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
           "language" : "en",
-          "value" : "Design media",
+          "value" : "Materials used for the production of a design on a support.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Τα υλικά μέσα τα οποία χρησιμοποιούνται για την δημιουργία ενός σχεδίου σε ένα υποστήριγμα.",
           "type" : "label"
         } ],
         "altLabel" : [ {
           "identifier" : "altLabel",
           "language" : "en",
           "value" : "Drawing media",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Τα υλικά μέσα τα οποία χρησιμοποιούνται για την δημιουργία ενός σχεδίου σε ένα υποστήριγμα.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "Materials used for the production of a design on a support.",
           "type" : "label"
         } ]
       },
@@ -1712,13 +1670,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Τα υλικά μέσα τα οποία χρησιμοποιούνται για την ζωγραφική σε ένα υποστήριγμα.",
+          "language" : "en",
+          "value" : "Materials used for the production of a painting on a support.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Materials used for the production of a painting on a support.",
+          "language" : "el",
+          "value" : "Τα υλικά μέσα τα οποία χρησιμοποιούνται για την ζωγραφική σε ένα υποστήριγμα.",
           "type" : "label"
         } ]
       },
@@ -1737,24 +1695,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Vacuum cleaning",
+          "language" : "el",
+          "value" : "Καθαρισμός με απορροφητική σκούπα",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Καθαρισμός με απορροφητική σκούπα",
+          "language" : "en",
+          "value" : "Vacuum cleaning",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται σε μια κατηγορία μηχανικού καθαρισμού, η οποία στοχεύει στην μείωση ή απομάκρυνση των επιφανειακών επικαθίσεων (π.χ. σκόνη, χώμα, περιττώματα εντόμων) χρησιμοποιώντας απορροφητική σκούπα.",
+          "language" : "en",
+          "value" : "It refers to a mechanical cleaning category, which aim to reduce or remove superficial deposits (e.g. dust, soil, insect droppings) using vacuum.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to a mechanical cleaning category, which aim to reduce or remove superficial deposits (e.g. dust, soil, insect droppings) using vacuum.",
+          "language" : "el",
+          "value" : "Αναφέρεται σε μια κατηγορία μηχανικού καθαρισμού, η οποία στοχεύει στην μείωση ή απομάκρυνση των επιφανειακών επικαθίσεων (π.χ. σκόνη, χώμα, περιττώματα εντόμων) χρησιμοποιώντας απορροφητική σκούπα.",
           "type" : "label"
         } ]
       },
@@ -1773,13 +1731,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ροή αέρα",
+          "language" : "en",
+          "value" : "Air flow",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Air flow",
+          "language" : "el",
+          "value" : "Ροή αέρα",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -1820,13 +1778,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ουσίες που παρουσιάζουν μια χαρακτηριστική γυαλάδα, είναι καλοί αγωγοί ηλεκτρισμού και θερμότητας, είναι αδιαφανείς, μπορούν να λιωθούν, και είναι συνήθως εύπλαστες ή όλκιμες.",
+          "language" : "en",
+          "value" : "Substances that typically show a characteristic luster, are good conductors of electricity and heat, are opaque, can be fused, and are usually malleable or ductile.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Substances that typically show a characteristic luster, are good conductors of electricity and heat, are opaque, can be fused, and are usually malleable or ductile.",
+          "language" : "el",
+          "value" : "Ουσίες που παρουσιάζουν μια χαρακτηριστική γυαλάδα, είναι καλοί αγωγοί ηλεκτρισμού και θερμότητας, είναι αδιαφανείς, μπορούν να λιωθούν, και είναι συνήθως εύπλαστες ή όλκιμες.",
           "type" : "label"
         } ]
       },
@@ -1856,13 +1814,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Combination of two or more substances in no definite proportions, within which the constituent substances retain their individual properties and are separable by ordinary physical means. ",
+          "language" : "el",
+          "value" : "Συνδυασμός δύο ή περισσότερων ουσιών σε μη καθορισμένες ποσότηττες, μέσα στον οποίο οι ουσίες διατηρούν τις ιδιότητές τους και μπορούν να διαχωριστούν με φυσικού τρόπους.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Συνδυασμός δύο ή περισσότερων ουσιών σε μη καθορισμένες ποσότηττες, μέσα στον οποίο οι ουσίες διατηρούν τις ιδιότητές τους και μπορούν να διαχωριστούν με φυσικού τρόπους.",
+          "language" : "en",
+          "value" : "Combination of two or more substances in no definite proportions, within which the constituent substances retain their individual properties and are separable by ordinary physical means. ",
           "type" : "label"
         } ]
       },
@@ -1881,13 +1839,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Οπτική σταθερότητα",
+          "language" : "en",
+          "value" : "Optical stability",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Optical stability",
+          "language" : "el",
+          "value" : "Οπτική σταθερότητα",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -1949,13 +1907,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Any material, usually liquid, having the power of dissolving another material.",
+          "language" : "el",
+          "value" : "Οποιοδήποτε υλικό, συνήθως ρευστό, το οποίο έχει την ικανότητα να διαλύσει ένα άλλο υλικό.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Οποιοδήποτε υλικό, συνήθως ρευστό, το οποίο έχει την ικανότητα να διαλύσει ένα άλλο υλικό.",
+          "language" : "en",
+          "value" : "Any material, usually liquid, having the power of dissolving another material.",
           "type" : "label"
         } ]
       },
@@ -1985,13 +1943,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "A water-soluble, tasteless colloidal form of processed collagen obtained from bones, hooves or skins. Is high in molecular weight after processing. It is usually used in the context of conservation interventions related to consolidation and fixing of paintings and photographs.",
+          "language" : "el",
+          "value" : "Μια υδατοδιαλυτή, άνευ γεύσης, κολλοειδούς μορφής επεξεργασμένου κολλαγόνου που λαμβάνεται από οστά, οπλές ή δέρματα. Έχει υψηλό μοριακό βάρος μετά την επεξεργασία. Χρησιμοποιείται συνήθως στο πλαίσιο επεμβάσεων συντήρησης σχετικές με συγκόλληση και στερέωση ζωγραφικών έργων και φωτογραφιών.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Μια υδατοδιαλυτή, άνευ γεύσης, κολλοειδούς μορφής επεξεργασμένου κολλαγόνου που λαμβάνεται από οστά, οπλές ή δέρματα. Έχει υψηλό μοριακό βάρος μετά την επεξεργασία. Χρησιμοποιείται συνήθως στο πλαίσιο επεμβάσεων συντήρησης σχετικές με συγκόλληση και στερέωση ζωγραφικών έργων και φωτογραφιών.",
+          "language" : "en",
+          "value" : "A water-soluble, tasteless colloidal form of processed collagen obtained from bones, hooves or skins. Is high in molecular weight after processing. It is usually used in the context of conservation interventions related to consolidation and fixing of paintings and photographs.",
           "type" : "label"
         } ]
       },
@@ -2003,6 +1961,42 @@
         "IRI-based" : "concept_00170",
         "el" : "Ζελατίνη",
         "en" : "Gelatin"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00052",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Πινέλο ξεσκονίσματος",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Dusting brush",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Εργαλείο καθαρισμού, αποτελούμενο από μια λαβή πάνω στην οποία είναι στερεωμένες τρίχες. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "A tool used for cleaning, consisting of a handle onto which bristles are wound. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Εργαλείο καθαρισμού, αποτελούμενο από μια λαβή πάνω στην οποία είναι στερεωμένες τρίχες. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
+        "en" : "A tool used for cleaning, consisting of a handle onto which bristles are wound. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00052",
+        "el" : "Πινέλο ξεσκονίσματος",
+        "en" : "Dusting brush"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00173",
@@ -2041,40 +2035,40 @@
         "en" : "Adhesion strength"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00052",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00053",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Πινέλο ξεσκονίσματος",
+          "value" : "Μαλακό πινέλο ξεσκονίσματος",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "en",
-          "value" : "Dusting brush",
+          "value" : "Soft dusting brush",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "A tool used for cleaning, consisting of a handle onto which bristles are wound. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items.",
+          "language" : "el",
+          "value" : "Ένα πινέλο ξεσκονίσματος με μαλακές τρίχες.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Εργαλείο καθαρισμού, αποτελούμενο από μια λαβή πάνω στην οποία είναι στερεωμένες τρίχες. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
+          "language" : "en",
+          "value" : "A dusting brush which has soft bristles.",
           "type" : "label"
         } ]
       },
       "comment" : {
-        "el" : "Εργαλείο καθαρισμού, αποτελούμενο από μια λαβή πάνω στην οποία είναι στερεωμένες τρίχες. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
-        "en" : "A tool used for cleaning, consisting of a handle onto which bristles are wound. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items."
+        "el" : "Ένα πινέλο ξεσκονίσματος με μαλακές τρίχες.",
+        "en" : "A dusting brush which has soft bristles."
       },
       "labels" : {
-        "IRI-based" : "concept_00052",
-        "el" : "Πινέλο ξεσκονίσματος",
-        "en" : "Dusting brush"
+        "IRI-based" : "concept_00053",
+        "el" : "Μαλακό πινέλο ξεσκονίσματος",
+        "en" : "Soft dusting brush"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00174",
@@ -2082,13 +2076,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Χαρτόνι",
+          "language" : "en",
+          "value" : "Pasteboard",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Pasteboard",
+          "language" : "el",
+          "value" : "Χαρτόνι",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -2113,40 +2107,51 @@
         "en" : "Pasteboard"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00053",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00050",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Μαλακό πινέλο ξεσκονίσματος",
+          "value" : "Ξεσκονόπανο",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "en",
-          "value" : "Soft dusting brush",
+          "value" : "Dust cloth",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
           "language" : "en",
-          "value" : "A dusting brush which has soft bristles.",
+          "value" : "Pieces of textile which is used for cleaning.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items.",
           "type" : "label"
         }, {
           "identifier" : "definition",
           "language" : "el",
-          "value" : "Ένα πινέλο ξεσκονίσματος με μαλακές τρίχες.",
+          "value" : "Τμήματα/κομάτια υφάσματος τα οποία χρησιμοποιούνται για καθάρισμα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
+          "type" : "label"
+        } ],
+        "altLabel" : [ {
+          "identifier" : "altLabel",
+          "language" : "en",
+          "value" : "Cloth for dusting",
+          "type" : "label"
+        }, {
+          "identifier" : "altLabel",
+          "language" : "el",
+          "value" : "Πανί για ξεσκόνισμα",
           "type" : "label"
         } ]
       },
       "comment" : {
-        "el" : "Ένα πινέλο ξεσκονίσματος με μαλακές τρίχες.",
-        "en" : "A dusting brush which has soft bristles."
+        "el" : "Τμήματα/κομάτια υφάσματος τα οποία χρησιμοποιούνται για καθάρισμα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
+        "en" : "Pieces of textile which is used for cleaning.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items."
       },
       "labels" : {
-        "IRI-based" : "concept_00053",
-        "el" : "Μαλακό πινέλο ξεσκονίσματος",
-        "en" : "Soft dusting brush"
+        "IRI-based" : "concept_00050",
+        "el" : "Ξεσκονόπανο",
+        "en" : "Dust cloth"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00171",
@@ -2185,53 +2190,6 @@
         "en" : "Matte"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00050",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ξεσκονόπανο",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Dust cloth",
-          "type" : "label"
-        } ],
-        "altLabel" : [ {
-          "identifier" : "altLabel",
-          "language" : "en",
-          "value" : "Cloth for dusting",
-          "type" : "label"
-        }, {
-          "identifier" : "altLabel",
-          "language" : "el",
-          "value" : "Πανί για ξεσκόνισμα",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Τμήματα/κομάτια υφάσματος τα οποία χρησιμοποιούνται για καθάρισμα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "Pieces of textile which is used for cleaning.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items.",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Τμήματα/κομάτια υφάσματος τα οποία χρησιμοποιούνται για καθάρισμα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς.",
-        "en" : "Pieces of textile which is used for cleaning.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00050",
-        "el" : "Ξεσκονόπανο",
-        "en" : "Dust cloth"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00051",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -2249,12 +2207,12 @@
         "altLabel" : [ {
           "identifier" : "altLabel",
           "language" : "en",
-          "value" : "Rubber bulb",
+          "value" : "Bulb duster",
           "type" : "label"
         }, {
           "identifier" : "altLabel",
           "language" : "en",
-          "value" : "Bulb duster",
+          "value" : "Rubber bulb",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -2284,24 +2242,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Γκουάς",
+          "language" : "en",
+          "value" : "Gouache",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Gouache",
+          "language" : "el",
+          "value" : "Γκουάς",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "A matte, opaque watercolor paint typically having gum arabic, gum senegal, or dextrin as a binder. Gouache paints differ from watercolor paints, which use transparent pigments. Chalk and other white fillers may be added to some colors.",
+          "language" : "el",
+          "value" : "Ένα ματ, αδιαφανές χρώμα ακουαρέλας που έχει τυπικά αραβικό κόμμι, κόμμι Σενεγάλης ή δεξτρίνη ως συνδετικό. Τα χρώματα γκουάς διαφέρουν από τα χρώματα ακουαρέλας, τα οποία χρησιμοποιούν διαφανείς χρωστικές. Σε ορισμένα χρώματα μπορεί να προστεθούν κιμωλία και άλλα λευκά υλικά πλήρωσης.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ένα ματ, αδιαφανές χρώμα ακουαρέλας που έχει τυπικά αραβικό κόμμι, κόμμι Σενεγάλης ή δεξτρίνη ως συνδετικό. Τα χρώματα γκουάς διαφέρουν από τα χρώματα ακουαρέλας, τα οποία χρησιμοποιούν διαφανείς χρωστικές. Σε ορισμένα χρώματα μπορεί να προστεθούν κιμωλία και άλλα λευκά υλικά πλήρωσης.",
+          "language" : "en",
+          "value" : "A matte, opaque watercolor paint typically having gum arabic, gum senegal, or dextrin as a binder. Gouache paints differ from watercolor paints, which use transparent pigments. Chalk and other white fillers may be added to some colors.",
           "type" : "label"
         } ]
       },
@@ -2362,13 +2320,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Polyvinyl chloride",
+          "language" : "el",
+          "value" : "Πολυβινυλοχλωρίδιο",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Πολυβινυλοχλωρίδιο",
+          "language" : "en",
+          "value" : "Polyvinyl chloride",
           "type" : "label"
         } ]
       },
@@ -2383,13 +2341,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Polyethelene",
+          "language" : "el",
+          "value" : "Πολυαιθυλένιο",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Πολυαιθυλένιο",
+          "language" : "en",
+          "value" : "Polyethelene",
           "type" : "label"
         } ]
       },
@@ -2404,24 +2362,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Airbrush",
+          "language" : "el",
+          "value" : "Αερογράφος",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Αερογράφος",
+          "language" : "en",
+          "value" : "Airbrush",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ψεκαστήρας που χρησιμοποιείται για την εφαρμογή ενός λεπτού ψεκάσματος χρώματος ή κάποιου άλλου επικαλυπτικού ή συγκολλητικού υλικού με πεπιεσμένο αέρα.",
+          "language" : "en",
+          "value" : "Atomizer used for applying a fine spray of paint or another coating or consolidant by compressed air.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Atomizer used for applying a fine spray of paint or another coating or consolidant by compressed air.",
+          "language" : "el",
+          "value" : "Ψεκαστήρας που χρησιμοποιείται για την εφαρμογή ενός λεπτού ψεκάσματος χρώματος ή κάποιου άλλου επικαλυπτικού ή συγκολλητικού υλικού με πεπιεσμένο αέρα.",
           "type" : "label"
         } ]
       },
@@ -2456,18 +2414,54 @@
         "en" : "Physical feature extent"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00167",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00046",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Μεθυλοκυτταρίνη",
+          "value" : "Διαλυτότητα σε διαλύτη",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "en",
+          "value" : "Solubility in solvent",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Αναφέρεται στην ιδιότητα ενός υλικού επέμβασης να διαλύεται σε έναν διαλύτη.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "It refers to the property of an intervention material to dissolve in a solvent.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Αναφέρεται στην ιδιότητα ενός υλικού επέμβασης να διαλύεται σε έναν διαλύτη.",
+        "en" : "It refers to the property of an intervention material to dissolve in a solvent."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00046",
+        "el" : "Διαλυτότητα σε διαλύτη",
+        "en" : "Solubility in solvent"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00167",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
           "value" : "Methyl cellulose",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Μεθυλοκυτταρίνη",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -2492,42 +2486,6 @@
         "en" : "Methyl cellulose"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00046",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Solubility in solvent",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Διαλυτότητα σε διαλύτη",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "It refers to the property of an intervention material to dissolve in a solvent.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται στην ιδιότητα ενός υλικού επέμβασης να διαλύεται σε έναν διαλύτη.",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Αναφέρεται στην ιδιότητα ενός υλικού επέμβασης να διαλύεται σε έναν διαλύτη.",
-        "en" : "It refers to the property of an intervention material to dissolve in a solvent."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00046",
-        "el" : "Διαλυτότητα σε διαλύτη",
-        "en" : "Solubility in solvent"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00164",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -2544,13 +2502,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "A device used for misting of consolidants. It is created from a modified ultrasonic humidifier. It was first developed by Canadian Conservation Institute.",
+          "language" : "el",
+          "value" : "Συσκευή που χρησιμοποιείται για τον ψεκασμό συγκολλητικών υλικών. Έχει δημιουργηθεί με την τροποποίηση ενός υγραντήρα υπερήχων. Δημιουργήθηκε πρώτη φορά από το Canadian Conservation Institute.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Συσκευή που χρησιμοποιείται για τον ψεκασμό συγκολλητικών υλικών. Έχει δημιουργηθεί με την τροποποίηση ενός υγραντήρα υπερήχων. Δημιουργήθηκε πρώτη φορά από το Canadian Conservation Institute.",
+          "language" : "en",
+          "value" : "A device used for misting of consolidants. It is created from a modified ultrasonic humidifier. It was first developed by Canadian Conservation Institute.",
           "type" : "label"
         } ]
       },
@@ -2600,42 +2558,6 @@
         "en" : "Round brush"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00049",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απορροφητικό χαρτί",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Absorbent paper",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Χαρτί το οποίο απορροφά υλικά σε υγρή/ρευστή μορφή. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς. Συγκεκριμένα, διευκολύνουν την εφαρμογή κάποιου υγρού καθαριστικού και την απομακρύνουν τις μη επιθυμητές επικαθίσεις.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "Paper which absorb liquid substances.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items. Particularly, it facilitates the application of some type of liquid cleanser and the removal of the undesireable deposits.",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Χαρτί το οποίο απορροφά υλικά σε υγρή/ρευστή μορφή. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς. Συγκεκριμένα, διευκολύνουν την εφαρμογή κάποιου υγρού καθαριστικού και την απομακρύνουν τις μη επιθυμητές επικαθίσεις.",
-        "en" : "Paper which absorb liquid substances.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items. Particularly, it facilitates the application of some type of liquid cleanser and the removal of the undesireable deposits."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00049",
-        "el" : "Απορροφητικό χαρτί",
-        "en" : "Absorbent paper"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00203",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -2655,6 +2577,42 @@
         "IRI-based" : "concept_00203",
         "el" : "Πολυμερισμός",
         "en" : "Polymerism"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00049",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Absorbent paper",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Απορροφητικό χαρτί",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "Paper which absorb liquid substances.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items. Particularly, it facilitates the application of some type of liquid cleanser and the removal of the undesireable deposits.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Χαρτί το οποίο απορροφά υλικά σε υγρή/ρευστή μορφή. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς. Συγκεκριμένα, διευκολύνουν την εφαρμογή κάποιου υγρού καθαριστικού και την απομακρύνουν τις μη επιθυμητές επικαθίσεις.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Χαρτί το οποίο απορροφά υλικά σε υγρή/ρευστή μορφή. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς. Συγκεκριμένα, διευκολύνουν την εφαρμογή κάποιου υγρού καθαριστικού και την απομακρύνουν τις μη επιθυμητές επικαθίσεις.",
+        "en" : "Paper which absorb liquid substances.  It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items. Particularly, it facilitates the application of some type of liquid cleanser and the removal of the undesireable deposits."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00049",
+        "el" : "Απορροφητικό χαρτί",
+        "en" : "Absorbent paper"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00204",
@@ -2678,18 +2636,54 @@
         "en" : "Polymerism degree"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00168",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Ξυλένιο",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Xylene",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Ένα μείγμα τριών ισομερών υδρογονανθράκων το οποίο σχηματίζει το εμπορικό ξυλόλιο. Είναι ένα άχρωμο, εύφλεκτο, τοξικό υγρό αδιάλυτο στο νερό.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "A mixture of three isomeric hydrocarbons form commercial xylene. It is a colorless, flammable, toxic liquid insoluble in water.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Ένα μείγμα τριών ισομερών υδρογονανθράκων το οποίο σχηματίζει το εμπορικό ξυλόλιο. Είναι ένα άχρωμο, εύφλεκτο, τοξικό υγρό αδιάλυτο στο νερό.",
+        "en" : "A mixture of three isomeric hydrocarbons form commercial xylene. It is a colorless, flammable, toxic liquid insoluble in water."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00168",
+        "el" : "Ξυλένιο",
+        "en" : "Xylene"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00201",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Marker",
+          "language" : "el",
+          "value" : "Μαρκαδόρος",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Μαρκαδόρος",
+          "language" : "en",
+          "value" : "Marker",
           "type" : "label"
         } ]
       },
@@ -2741,53 +2735,17 @@
         "en" : "Feather duster"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00168",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ξυλένιο",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Xylene",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "A mixture of three isomeric hydrocarbons form commercial xylene. It is a colorless, flammable, toxic liquid insoluble in water.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ένα μείγμα τριών ισομερών υδρογονανθράκων το οποίο σχηματίζει το εμπορικό ξυλόλιο. Είναι ένα άχρωμο, εύφλεκτο, τοξικό υγρό αδιάλυτο στο νερό.",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Ένα μείγμα τριών ισομερών υδρογονανθράκων το οποίο σχηματίζει το εμπορικό ξυλόλιο. Είναι ένα άχρωμο, εύφλεκτο, τοξικό υγρό αδιάλυτο στο νερό.",
-        "en" : "A mixture of three isomeric hydrocarbons form commercial xylene. It is a colorless, flammable, toxic liquid insoluble in water."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00168",
-        "el" : "Ξυλένιο",
-        "en" : "Xylene"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00169",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
+          "language" : "en",
           "value" : "Paraloid B72",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
+          "language" : "el",
           "value" : "Paraloid B72",
           "type" : "label"
         } ],
@@ -2818,13 +2776,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απώλεια",
+          "language" : "en",
+          "value" : "Loss",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Loss",
+          "language" : "el",
+          "value" : "Απώλεια",
           "type" : "label"
         } ]
       },
@@ -2891,39 +2849,18 @@
         "en" : "Plexiglass"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00060",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Πιστόλι εκτόξευσης αέρα",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Air blow gun",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00060",
-        "el" : "Πιστόλι εκτόξευσης αέρα",
-        "en" : "Air blow gun"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00181",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Uplifted crack edge",
+          "language" : "el",
+          "value" : "Ανυψωμένα άκρα ρωγμών",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ανυψωμένα άκρα ρωγμών",
+          "language" : "en",
+          "value" : "Uplifted crack edge",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -2948,25 +2885,25 @@
         "en" : "Uplifted crack edge"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00184",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00060",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Προβλήματα πρόσφυσης",
+          "language" : "en",
+          "value" : "Air blow gun",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Adhesion problem",
+          "language" : "el",
+          "value" : "Πιστόλι εκτόξευσης αέρα",
           "type" : "label"
         } ]
       },
       "labels" : {
-        "IRI-based" : "concept_00184",
-        "el" : "Προβλήματα πρόσφυσης",
-        "en" : "Adhesion problem"
+        "IRI-based" : "concept_00060",
+        "el" : "Πιστόλι εκτόξευσης αέρα",
+        "en" : "Air blow gun"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00063",
@@ -2988,6 +2925,27 @@
         "IRI-based" : "concept_00063",
         "el" : "Νερό",
         "en" : "Water"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00184",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Προβλήματα πρόσφυσης",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Adhesion problem",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00184",
+        "el" : "Προβλήματα πρόσφυσης",
+        "en" : "Adhesion problem"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00064",
@@ -3015,27 +2973,6 @@
         "IRI-based" : "concept_00064",
         "el" : "Καθαριστικό τζαμιών",
         "en" : "Window cleaner"
-      }
-    }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00061",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Φυσητήρας μπαταρίας",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Battery air blower",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00061",
-        "el" : "Φυσητήρας μπαταρίας",
-        "en" : "Battery air blower"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00182",
@@ -3072,6 +3009,27 @@
         "IRI-based" : "concept_00182",
         "el" : "Αποκολλήσεις",
         "en" : "Detaching"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00061",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Battery air blower",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Φυσητήρας μπαταρίας",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00061",
+        "el" : "Φυσητήρας μπαταρίας",
+        "en" : "Battery air blower"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00062",
@@ -3117,13 +3075,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Διάνοιξη σε ένα υλικό ή αντικείμενο, συνήθως κατά μήκος ενός μονού ή διακλαδισμένου μονοπατιού.",
+          "language" : "en",
+          "value" : "Fracturing in a material or object, usually along a single or branched path.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Fracturing in a material or object, usually along a single or branched path.",
+          "language" : "el",
+          "value" : "Διάνοιξη σε ένα υλικό ή αντικείμενο, συνήθως κατά μήκος ενός μονού ή διακλαδισμένου μονοπατιού.",
           "type" : "label"
         } ]
       },
@@ -3221,29 +3179,65 @@
         "en" : "Emulsion layer"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00056",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00177",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Απορροφητική σκούπα μουσείου",
+          "value" : "Ακρυλικό (χρώμα)",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "en",
-          "value" : "Museum vacuum cleaner",
+          "value" : "Acrylic paint",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
           "language" : "en",
-          "value" : "An electric vacuum cleaner which can reach medium to very low volumes of sunction.",
+          "value" : "A paint made by pigments or dyes in acrylic, which is a colorless, transparent, thermoplastic synthetic resin made by the polymerization of acrylic acid derivatives.",
           "type" : "label"
         }, {
           "identifier" : "definition",
           "language" : "el",
+          "value" : "Χρώμα από χρωστικές ή βαφές σε ακρυλικό, το οποίο είναι μια άχρωμη, διάφανη, θερμοπλαστική συνθετική ρητίνη φτιαγμένη από τον πολυμερισμό παραγώγων ακρυλικού οξέος.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Χρώμα από χρωστικές ή βαφές σε ακρυλικό, το οποίο είναι μια άχρωμη, διάφανη, θερμοπλαστική συνθετική ρητίνη φτιαγμένη από τον πολυμερισμό παραγώγων ακρυλικού οξέος.",
+        "en" : "A paint made by pigments or dyes in acrylic, which is a colorless, transparent, thermoplastic synthetic resin made by the polymerization of acrylic acid derivatives."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00177",
+        "el" : "Ακρυλικό (χρώμα)",
+        "en" : "Acrylic paint"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00056",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Museum vacuum cleaner",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Απορροφητική σκούπα μουσείου",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "el",
           "value" : "Ηλεκτρική απορροφητική σκούπα που μπορεί να πετύχει απορρόφηση μέτριων έως πολύ χαμηλών υψηλών εντάσεων.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "An electric vacuum cleaner which can reach medium to very low volumes of sunction.",
           "type" : "label"
         } ]
       },
@@ -3278,63 +3272,6 @@
         "en" : "Structural layer"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00177",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Acrylic paint",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ακρυλικό (χρώμα)",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "A paint made by pigments or dyes in acrylic, which is a colorless, transparent, thermoplastic synthetic resin made by the polymerization of acrylic acid derivatives.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Χρώμα από χρωστικές ή βαφές σε ακρυλικό, το οποίο είναι μια άχρωμη, διάφανη, θερμοπλαστική συνθετική ρητίνη φτιαγμένη από τον πολυμερισμό παραγώγων ακρυλικού οξέος.",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Χρώμα από χρωστικές ή βαφές σε ακρυλικό, το οποίο είναι μια άχρωμη, διάφανη, θερμοπλαστική συνθετική ρητίνη φτιαγμένη από τον πολυμερισμό παραγώγων ακρυλικού οξέος.",
-        "en" : "A paint made by pigments or dyes in acrylic, which is a colorless, transparent, thermoplastic synthetic resin made by the polymerization of acrylic acid derivatives."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00177",
-        "el" : "Ακρυλικό (χρώμα)",
-        "en" : "Acrylic paint"
-      }
-    }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00057",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απορροφητική σκούπα μπαταρίας",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Battery vacuum cleaner",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00057",
-        "el" : "Απορροφητική σκούπα μπαταρίας",
-        "en" : "Battery vacuum cleaner"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00178",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -3351,13 +3288,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Χρώμα φτιαγμένο από ανάμειξη χρωστικών και αυγό (συνήθως τον κρόκο).",
+          "language" : "en",
+          "value" : "A paint made by pigments and egg (usually the yolk).",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "A paint made by pigments and egg (usually the yolk).",
+          "language" : "el",
+          "value" : "Χρώμα φτιαγμένο από ανάμειξη χρωστικών και αυγό (συνήθως τον κρόκο).",
           "type" : "label"
         } ]
       },
@@ -3371,18 +3308,39 @@
         "en" : "Egg tempera"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00057",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Battery vacuum cleaner",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Απορροφητική σκούπα μπαταρίας",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00057",
+        "el" : "Απορροφητική σκούπα μπαταρίας",
+        "en" : "Battery vacuum cleaner"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00211",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ζωγραφικό στρώμα",
+          "language" : "en",
+          "value" : "Painting layer",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Painting layer",
+          "language" : "el",
+          "value" : "Ζωγραφικό στρώμα",
           "type" : "label"
         } ]
       },
@@ -3390,42 +3348,6 @@
         "IRI-based" : "concept_00211",
         "el" : "Ζωγραφικό στρώμα",
         "en" : "Painting layer"
-      }
-    }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00054",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απορροφητική σκούπα",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Vacuum cleaner",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Συσκευή καθαρισμού με απορρόφηση αέρα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς ή από τμήματα/μέρη της μη κινητής Πολιτιστικής Κληρονομιάς.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "Device which is used for cleaning by sunction. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items or sections of immovable Cultural Heritage.",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Συσκευή καθαρισμού με απορρόφηση αέρα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς ή από τμήματα/μέρη της μη κινητής Πολιτιστικής Κληρονομιάς.",
-        "en" : "Device which is used for cleaning by sunction. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items or sections of immovable Cultural Heritage."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00054",
-        "el" : "Απορροφητική σκούπα",
-        "en" : "Vacuum cleaner"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00175",
@@ -3444,13 +3366,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Paper made from thin layers of pith cut from two species of rice paper trees cultivated in China, Japan, and Thailand.",
+          "language" : "el",
+          "value" : "Χαρτί φτιαγμένο από λεπτές στρώσεις φλοιού κομμένου από δύο είδη δέντρων ριζόχαρτου τα οποία καλλιεργούνται στην Κίνα, την Ιαπωνία και την Ταιλάνδη.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Χαρτί φτιαγμένο από λεπτές στρώσεις φλοιού κομμένου από δύο είδη δέντρων ριζόχαρτου τα οποία καλλιεργούνται στην Κίνα, την Ιαπωνία και την Ταιλάνδη.",
+          "language" : "en",
+          "value" : "Paper made from thin layers of pith cut from two species of rice paper trees cultivated in China, Japan, and Thailand.",
           "type" : "label"
         } ]
       },
@@ -3464,40 +3386,40 @@
         "en" : "Rice paper"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00176",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00054",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Λάδι (χρώμα)",
+          "language" : "en",
+          "value" : "Vacuum cleaner",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Oil paint",
+          "language" : "el",
+          "value" : "Απορροφητική σκούπα",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Μπογιά φτιαγμένη από ανάμειξη χρωστικών και ξηραινόμενων ελαίων όπως λινέλαιο.",
+          "language" : "en",
+          "value" : "Device which is used for cleaning by sunction. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items or sections of immovable Cultural Heritage.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "A paint made bypigments and a drying oil such as linseed oil.",
+          "language" : "el",
+          "value" : "Συσκευή καθαρισμού με απορρόφηση αέρα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς ή από τμήματα/μέρη της μη κινητής Πολιτιστικής Κληρονομιάς.",
           "type" : "label"
         } ]
       },
       "comment" : {
-        "el" : "Μπογιά φτιαγμένη από ανάμειξη χρωστικών και ξηραινόμενων ελαίων όπως λινέλαιο.",
-        "en" : "A paint made bypigments and a drying oil such as linseed oil."
+        "el" : "Συσκευή καθαρισμού με απορρόφηση αέρα. Χρησιμοποιείται στο πλαίσιο επεμβάσεων συντήρησης που αφορούν στον επιφανειακό καθαρισμό ή την απομάκρυνση χαλαρών επικαθίσεων (π.χ. σκόνης) από τις επιφάνειες κινητών αντικειμένων της Πολιτιστικής Κληρονομιάς ή από τμήματα/μέρη της μη κινητής Πολιτιστικής Κληρονομιάς.",
+        "en" : "Device which is used for cleaning by sunction. It is used in the context of conservation interventions related to surface cleaning or removal of loose deposits (e.g. dust) from the surfaces of movable Cultural Heritage items or sections of immovable Cultural Heritage."
       },
       "labels" : {
-        "IRI-based" : "concept_00176",
-        "el" : "Λάδι (χρώμα)",
-        "en" : "Oil paint"
+        "IRI-based" : "concept_00054",
+        "el" : "Απορροφητική σκούπα",
+        "en" : "Vacuum cleaner"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00055",
@@ -3516,13 +3438,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ηλεκτρική απορροφητική σκούπα που μπορεί να πετύχει απορρόφηση υψηλών εντάσεων.",
+          "language" : "en",
+          "value" : "An electric vacuum cleaner which can reach high volumes of sunction.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "An electric vacuum cleaner which can reach high volumes of sunction.",
+          "language" : "el",
+          "value" : "Ηλεκτρική απορροφητική σκούπα που μπορεί να πετύχει απορρόφηση υψηλών εντάσεων.",
           "type" : "label"
         } ]
       },
@@ -3536,18 +3458,54 @@
         "en" : "Professional vacuum cleaner"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00214",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00176",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Υπόστρωμα",
+          "value" : "Λάδι (χρώμα)",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "en",
+          "value" : "Oil paint",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "A paint made bypigments and a drying oil such as linseed oil.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Μπογιά φτιαγμένη από ανάμειξη χρωστικών και ξηραινόμενων ελαίων όπως λινέλαιο.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Μπογιά φτιαγμένη από ανάμειξη χρωστικών και ξηραινόμενων ελαίων όπως λινέλαιο.",
+        "en" : "A paint made bypigments and a drying oil such as linseed oil."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00176",
+        "el" : "Λάδι (χρώμα)",
+        "en" : "Oil paint"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00214",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
           "value" : "Substrate layer",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Υπόστρωμα",
           "type" : "label"
         } ]
       },
@@ -3576,27 +3534,6 @@
         "IRI-based" : "concept_00215",
         "el" : "Στρώμα προετοιμασίας",
         "en" : "Ground layer"
-      }
-    }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00212",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Επικαλυπτικό στρώμα",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Coating layer",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00212",
-        "el" : "Επικαλυπτικό στρώμα",
-        "en" : "Coating layer"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00058",
@@ -3635,6 +3572,27 @@
         "en" : "Air blower"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00212",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Coating layer",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Επικαλυπτικό στρώμα",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00212",
+        "el" : "Επικαλυπτικό στρώμα",
+        "en" : "Coating layer"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00179",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -3651,13 +3609,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Μια άμορφη, ανόργανη ουσία φτιαγμένη από σύντηξη διοξειδίου του πυρητίου με βασικό οξείδιο. Γενικά είναι διάφανο, αλλά μπορεί να είναι και ημιδιάφανο ή αδιάφανο.",
+          "language" : "en",
+          "value" : "An amorphous, inorganic substance made by fusing silica (silicon dioxide) with a basic oxide; generally transparent but often translucent or opaque.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "An amorphous, inorganic substance made by fusing silica (silicon dioxide) with a basic oxide; generally transparent but often translucent or opaque.",
+          "language" : "el",
+          "value" : "Μια άμορφη, ανόργανη ουσία φτιαγμένη από σύντηξη διοξειδίου του πυρητίου με βασικό οξείδιο. Γενικά είναι διάφανο, αλλά μπορεί να είναι και ημιδιάφανο ή αδιάφανο.",
           "type" : "label"
         } ]
       },
@@ -3712,13 +3670,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Στρώμα υποστήριξης",
+          "language" : "en",
+          "value" : "Support layer",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Support layer",
+          "language" : "el",
+          "value" : "Στρώμα υποστήριξης",
           "type" : "label"
         } ]
       },
@@ -3733,13 +3691,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ξύλο",
+          "language" : "en",
+          "value" : "Wood",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Wood",
+          "language" : "el",
+          "value" : "Ξύλο",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -3780,13 +3738,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "The skin of an animal that has been processed for further use e.g., for furniture, clothing, bookbinding. It is relatively soft and flexible when dry.",
+          "language" : "el",
+          "value" : "Το δέρμα ζώου που έχει υποστεί επεξεργασία για περαιτέρω χρήση όπως π.χ., η κατασκευή επίπλων, ρουχισμού, βιβλιοδεσίας. Είναι σχετικά μαλακό και εύκαμπτο όταν είναι στεγνό.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Το δέρμα ζώου που έχει υποστεί επεξεργασία για περαιτέρω χρήση όπως π.χ., η κατασκευή επίπλων, ρουχισμού, βιβλιοδεσίας. Είναι σχετικά μαλακό και εύκαμπτο όταν είναι στεγνό.",
+          "language" : "en",
+          "value" : "The skin of an animal that has been processed for further use e.g., for furniture, clothing, bookbinding. It is relatively soft and flexible when dry.",
           "type" : "label"
         } ]
       },
@@ -3800,29 +3758,50 @@
         "en" : "Leather"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00192",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Leatherette",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Δερματίνη",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00192",
+        "el" : "Δερματίνη",
+        "en" : "Leatherette"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00071",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Γραφίτης",
+          "language" : "en",
+          "value" : "Graphite",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Graphite",
+          "language" : "el",
+          "value" : "Γραφίτης",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Naturally occurring crystalline form of carbon dimorphous with diamond. Graphite is opaque, soft, greasy to the touch, and iron black to steel gray in color; it occurs as crystals, flakes, scales, veins, bedded masses, or disseminations in metamorphic rocks.",
+          "language" : "el",
+          "value" : "Άνθρακας σε φυσική κρυσταλλική μορφή διαμορφωμένη με διαμάντι. Ο γραφίτης είναι αδιαφανής, απαλός, λιπαρός στην αφή και έχει χρώμα από μαύρο (σιδήρου) έως γκρί (ατσαλιού). Μπορεί να έχει την μορφή κρυστάλλων, νιφάδων, λεπιών, φλεβών, στρωμένες μάζες ή διασπορών σε μεταμορφωσιγενή πετρώματα.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Άνθρακας σε φυσική κρυσταλλική μορφή διαμορφωμένη με διαμάντι. Ο γραφίτης είναι αδιαφανής, απαλός, λιπαρός στην αφή και έχει χρώμα από μαύρο (σιδήρου) έως γκρί (ατσαλιού). Μπορεί να έχει την μορφή κρυστάλλων, νιφάδων, λεπιών, φλεβών, στρωμένες μάζες ή διασπορών σε μεταμορφωσιγενή πετρώματα.",
+          "language" : "en",
+          "value" : "Naturally occurring crystalline form of carbon dimorphous with diamond. Graphite is opaque, soft, greasy to the touch, and iron black to steel gray in color; it occurs as crystals, flakes, scales, veins, bedded masses, or disseminations in metamorphic rocks.",
           "type" : "label"
         } ]
       },
@@ -3836,50 +3815,29 @@
         "en" : "Graphite"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00192",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Δερματίνη",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Leatherette",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00192",
-        "el" : "Δερματίνη",
-        "en" : "Leatherette"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00190",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Coating",
+          "language" : "el",
+          "value" : "Επικαλυπτικό υλικό",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Επικαλυπτικό υλικό",
+          "language" : "en",
+          "value" : "Coating",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Αναφέρεται γενικά σε οποιαδήποτε ουσία απλώνεται σε μια επιφάνεια, συνήθως για προστασία ή διακόσμηση.",
+          "language" : "en",
+          "value" : "Use generally for any substance spread over a surface, usually for protection or decoration.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Use generally for any substance spread over a surface, usually for protection or decoration.",
+          "language" : "el",
+          "value" : "Αναφέρεται γενικά σε οποιαδήποτε ουσία απλώνεται σε μια επιφάνεια, συνήθως για προστασία ή διακόσμηση.",
           "type" : "label"
         } ]
       },
@@ -3898,13 +3856,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Τρίμματα γόμας",
+          "language" : "en",
+          "value" : "Eraser crumbs",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Eraser crumbs",
+          "language" : "el",
+          "value" : "Τρίμματα γόμας",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -3945,13 +3903,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Συνδυασμός αλεσμένης, κονιορτοποιημένης χρωστικής και υδατικού συνδετικού που χρησιμοποιούνται στο σχέδιο και στη ζωγραφική με ξηρά μέσα, τα οποία εφαρμόζονται μέσω ενός κραγιόν ή ραβδιού. Το παστέλ ως υλικό είναι μαλακό και αναμειγνύεται.",
+          "language" : "en",
+          "value" : "Combination of ground, powdery pigment and aqueous binder that are used in drawing and dry painting, delivered via a crayon or stick. Pastel as a material is soft and blendable.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Combination of ground, powdery pigment and aqueous binder that are used in drawing and dry painting, delivered via a crayon or stick. Pastel as a material is soft and blendable.",
+          "language" : "el",
+          "value" : "Συνδυασμός αλεσμένης, κονιορτοποιημένης χρωστικής και υδατικού συνδετικού που χρησιμοποιούνται στο σχέδιο και στη ζωγραφική με ξηρά μέσα, τα οποία εφαρμόζονται μέσω ενός κραγιόν ή ραβδιού. Το παστέλ ως υλικό είναι μαλακό και αναμειγνύεται.",
           "type" : "label"
         } ]
       },
@@ -4048,42 +4006,6 @@
         "en" : "Looseness"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00072",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Chalk",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Κιμωλία",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ένας λεπτόκοκκος ασβεστόλιθος, ή μαλακή, γήινη μορφή ανθρακικού ασβεστίου.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "A fine-grained limestone, or soft, earthy form of calcium carbonate.",
-          "type" : "label"
-        } ]
-      },
-      "comment" : {
-        "el" : "Ένας λεπτόκοκκος ασβεστόλιθος, ή μαλακή, γήινη μορφή ανθρακικού ασβεστίου.",
-        "en" : "A fine-grained limestone, or soft, earthy form of calcium carbonate."
-      },
-      "labels" : {
-        "IRI-based" : "concept_00072",
-        "el" : "Κιμωλία",
-        "en" : "Chalk"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00193",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -4120,40 +4042,40 @@
         "en" : "Silver mirroring"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00194",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00072",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Σφουγγάρι αιθάλης",
+          "value" : "Κιμωλία",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "en",
-          "value" : "Smoke sponge",
+          "value" : "Chalk",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Σφουγγάρι φτιαγμένο από καουτσούκ, το οποίο χρησιμοποιείται για την απομάκρυνση βρωμιάς και κατά κύριο λόγο αιθάλης από επιφάνειες.",
+          "language" : "en",
+          "value" : "A fine-grained limestone, or soft, earthy form of calcium carbonate.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Sponge composed of rubber, which is used for the removal of dirt and mainly soot from surgaces.",
+          "language" : "el",
+          "value" : "Ένας λεπτόκοκκος ασβεστόλιθος, ή μαλακή, γήινη μορφή ανθρακικού ασβεστίου.",
           "type" : "label"
         } ]
       },
       "comment" : {
-        "el" : "Σφουγγάρι φτιαγμένο από καουτσούκ, το οποίο χρησιμοποιείται για την απομάκρυνση βρωμιάς και κατά κύριο λόγο αιθάλης από επιφάνειες.",
-        "en" : "Sponge composed of rubber, which is used for the removal of dirt and mainly soot from surgaces."
+        "el" : "Ένας λεπτόκοκκος ασβεστόλιθος, ή μαλακή, γήινη μορφή ανθρακικού ασβεστίου.",
+        "en" : "A fine-grained limestone, or soft, earthy form of calcium carbonate."
       },
       "labels" : {
-        "IRI-based" : "concept_00194",
-        "el" : "Σφουγγάρι αιθάλης",
-        "en" : "Smoke sponge"
+        "IRI-based" : "concept_00072",
+        "el" : "Κιμωλία",
+        "en" : "Chalk"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00073",
@@ -4190,6 +4112,42 @@
         "IRI-based" : "concept_00073",
         "el" : "Μελάνι",
         "en" : "Ink"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00194",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Smoke sponge",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Σφουγγάρι αιθάλης",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Σφουγγάρι φτιαγμένο από καουτσούκ, το οποίο χρησιμοποιείται για την απομάκρυνση βρωμιάς και κατά κύριο λόγο αιθάλης από επιφάνειες.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "Sponge composed of rubber, which is used for the removal of dirt and mainly soot from surgaces.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Σφουγγάρι φτιαγμένο από καουτσούκ, το οποίο χρησιμοποιείται για την απομάκρυνση βρωμιάς και κατά κύριο λόγο αιθάλης από επιφάνειες.",
+        "en" : "Sponge composed of rubber, which is used for the removal of dirt and mainly soot from surgaces."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00194",
+        "el" : "Σφουγγάρι αιθάλης",
+        "en" : "Smoke sponge"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00229",
@@ -4255,27 +4213,6 @@
         "en" : "Property (vocabulary top concept)"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00188",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Σκληρό μολύβι",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Hard pencil",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00188",
-        "el" : "Σκληρό μολύβι",
-        "en" : "Hard pencil"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00221",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -4311,12 +4248,6 @@
           "value" : "Χρώμα",
           "type" : "label"
         } ],
-        "altLabel" : [ {
-          "identifier" : "altLabel",
-          "language" : "el",
-          "value" : "Μπογιά",
-          "type" : "label"
-        } ],
         "definition" : [ {
           "identifier" : "definition",
           "language" : "en",
@@ -4326,6 +4257,12 @@
           "identifier" : "definition",
           "language" : "el",
           "value" : "Διεσπαρμένη χρωστική σε κάποιο ρευστό συνδετικό μέσο. Το χρώμα εφαρμόζεται με πινέλο, ρόλερ, σπρέυ ή τίναγμα και στεγνώνει ώστε να δημιουργήσει ένα διακοσμητικό ή προστατευτικό φίλμ.",
+          "type" : "label"
+        } ],
+        "altLabel" : [ {
+          "identifier" : "altLabel",
+          "language" : "el",
+          "value" : "Μπογιά",
           "type" : "label"
         } ]
       },
@@ -4339,40 +4276,25 @@
         "en" : "Paint"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00189",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00188",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "en",
-          "value" : "Emulsion",
+          "value" : "Hard pencil",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Γαλάκτωμα",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "The suspension of droplets of one liquid in another liquid in which the first liquid is not soluble. Also, an intimate mixture of a solid or semi-solid substance with a liquid, sometimes with the aid of an emulsifier. In photography, the mixture of binder and final image material.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Το εναιώρημα σταγονιδίων ενός υγρού σε άλλο υγρό στο οποίο το πρώτο υγρό δεν είναι διαλυτό. Επίσης, ένα μείγμα στερεάς ή ημιστερεής ουσίας με υγρό, μερικές φορές με τη βοήθεια γαλακτωματοποιητή. Στη φωτογραφία, η μίξη του συνδετικού υλικού και του τελικού υλικού εικόνας.",
+          "value" : "Σκληρό μολύβι",
           "type" : "label"
         } ]
       },
-      "comment" : {
-        "el" : "Το εναιώρημα σταγονιδίων ενός υγρού σε άλλο υγρό στο οποίο το πρώτο υγρό δεν είναι διαλυτό. Επίσης, ένα μείγμα στερεάς ή ημιστερεής ουσίας με υγρό, μερικές φορές με τη βοήθεια γαλακτωματοποιητή. Στη φωτογραφία, η μίξη του συνδετικού υλικού και του τελικού υλικού εικόνας.",
-        "en" : "The suspension of droplets of one liquid in another liquid in which the first liquid is not soluble. Also, an intimate mixture of a solid or semi-solid substance with a liquid, sometimes with the aid of an emulsifier. In photography, the mixture of binder and final image material."
-      },
       "labels" : {
-        "IRI-based" : "concept_00189",
-        "el" : "Γαλάκτωμα",
-        "en" : "Emulsion"
+        "IRI-based" : "concept_00188",
+        "el" : "Σκληρό μολύβι",
+        "en" : "Hard pencil"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00068",
@@ -4411,18 +4333,54 @@
         "en" : "Textile"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00189",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Γαλάκτωμα",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Emulsion",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "The suspension of droplets of one liquid in another liquid in which the first liquid is not soluble. Also, an intimate mixture of a solid or semi-solid substance with a liquid, sometimes with the aid of an emulsifier. In photography, the mixture of binder and final image material.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Το εναιώρημα σταγονιδίων ενός υγρού σε άλλο υγρό στο οποίο το πρώτο υγρό δεν είναι διαλυτό. Επίσης, ένα μείγμα στερεάς ή ημιστερεής ουσίας με υγρό, μερικές φορές με τη βοήθεια γαλακτωματοποιητή. Στη φωτογραφία, η μίξη του συνδετικού υλικού και του τελικού υλικού εικόνας.",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Το εναιώρημα σταγονιδίων ενός υγρού σε άλλο υγρό στο οποίο το πρώτο υγρό δεν είναι διαλυτό. Επίσης, ένα μείγμα στερεάς ή ημιστερεής ουσίας με υγρό, μερικές φορές με τη βοήθεια γαλακτωματοποιητή. Στη φωτογραφία, η μίξη του συνδετικού υλικού και του τελικού υλικού εικόνας.",
+        "en" : "The suspension of droplets of one liquid in another liquid in which the first liquid is not soluble. Also, an intimate mixture of a solid or semi-solid substance with a liquid, sometimes with the aid of an emulsifier. In photography, the mixture of binder and final image material."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00189",
+        "el" : "Γαλάκτωμα",
+        "en" : "Emulsion"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00222",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Material (vocabulary top concept)",
+          "language" : "el",
+          "value" : "Υλικό",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Υλικό",
+          "language" : "en",
+          "value" : "Material (vocabulary top concept)",
           "type" : "label"
         } ]
       },
@@ -4437,13 +4395,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Σαθρότητα",
+          "language" : "en",
+          "value" : "Flimsiness",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Flimsiness",
+          "language" : "el",
+          "value" : "Σαθρότητα",
           "type" : "label"
         } ]
       },
@@ -4458,13 +4416,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Χαρτί",
+          "language" : "en",
+          "value" : "Paper",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Paper",
+          "language" : "el",
+          "value" : "Χαρτί",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -4489,27 +4447,6 @@
         "en" : "Paper"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00187",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Μαλακό μολύβι",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Soft pencil",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00187",
-        "el" : "Μαλακό μολύβι",
-        "en" : "Soft pencil"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00220",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
@@ -4529,6 +4466,27 @@
         "IRI-based" : "concept_00220",
         "el" : "Επικαλυπτικό υλικό ρητίνης",
         "en" : "Resin coating"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00187",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Μαλακό μολύβι",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Soft pencil",
+          "type" : "label"
+        } ]
+      },
+      "labels" : {
+        "IRI-based" : "concept_00187",
+        "el" : "Μαλακό μολύβι",
+        "en" : "Soft pencil"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00066",
@@ -4572,13 +4530,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Design or procedure (vocabulary top concept)",
+          "language" : "el",
+          "value" : "Σχέδιο ή διαδικασία",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Σχέδιο ή διαδικασία",
+          "language" : "en",
+          "value" : "Design or procedure (vocabulary top concept)",
           "type" : "label"
         } ]
       },
@@ -4614,13 +4572,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Plastic",
+          "language" : "el",
+          "value" : "Πλαστικό",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Πλαστικό",
+          "language" : "en",
+          "value" : "Plastic",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -4650,13 +4608,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Equipment (vocabulary top concept)",
+          "language" : "el",
+          "value" : "Εξοπλισμός",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Εξοπλισμός",
+          "language" : "en",
+          "value" : "Equipment (vocabulary top concept)",
           "type" : "label"
         } ]
       },
@@ -4671,13 +4629,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Δραστηριότητα",
+          "language" : "en",
+          "value" : "Activity (vocabulary top concept)",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Activity (vocabulary top concept)",
+          "language" : "el",
+          "value" : "Δραστηριότητα",
           "type" : "label"
         } ]
       },
@@ -4785,24 +4743,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Instability",
+          "language" : "el",
+          "value" : "Αστάθεια",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Αστάθεια",
+          "language" : "en",
+          "value" : "Instability",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "The quality or state of lacking stability, of tending toward changeability, or of readily decomposing or changing chemically.",
+          "language" : "el",
+          "value" : "Η ιδιότητα ή κατάσταση της έλλειψης σταθερότητας, της τάσης για αλλαγή ή της εύκολης αποσύνθεσης ή χημικής αλλαγής.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Η ιδιότητα ή κατάσταση της έλλειψης σταθερότητας, της τάσης για αλλαγή ή της εύκολης αποσύνθεσης ή χημικής αλλαγής.",
+          "language" : "en",
+          "value" : "The quality or state of lacking stability, of tending toward changeability, or of readily decomposing or changing chemically.",
           "type" : "label"
         } ]
       },
@@ -4821,19 +4779,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Soiling (loose bonding)",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
           "language" : "el",
           "value" : "Βρωμιά (χαλαρός δεσμός)",
           "type" : "label"
-        } ],
-        "altLabel" : [ {
-          "identifier" : "altLabel",
+        }, {
+          "identifier" : "prefLabel",
           "language" : "en",
-          "value" : "Dirt (loose bonding)",
+          "value" : "Soiling (loose bonding)",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -4845,6 +4797,12 @@
           "identifier" : "definition",
           "language" : "en",
           "value" : "Solid particulate matter sitting on the surface of an object.",
+          "type" : "label"
+        } ],
+        "altLabel" : [ {
+          "identifier" : "altLabel",
+          "language" : "en",
+          "value" : "Dirt (loose bonding)",
           "type" : "label"
         } ]
       },
@@ -4926,24 +4884,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ευθραυστότητα",
+          "language" : "en",
+          "value" : "Fragility",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Fragility",
+          "language" : "el",
+          "value" : "Ευθραυστότητα",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "The quality of being easily broken, shattered, or damaged.",
+          "language" : "el",
+          "value" : "Η ιδιότητα του να σπάει, να κομματιάζεται ή να χαλάει κάτι εύκολα.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Η ιδιότητα του να σπάει, να κομματιάζεται ή να χαλάει κάτι εύκολα.",
+          "language" : "en",
+          "value" : "The quality of being easily broken, shattered, or damaged.",
           "type" : "label"
         } ]
       },
@@ -4962,13 +4920,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Hole",
+          "language" : "el",
+          "value" : "Οπή",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Οπή",
+          "language" : "en",
+          "value" : "Hole",
           "type" : "label"
         } ]
       },
@@ -5036,13 +4994,13 @@
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Webs that are spun by spiders, made of spider silk as interlaced threads of viscous protein fluid that solidify on exposure to air.",
+          "language" : "el",
+          "value" : "Ιστοί που υφαίνονται από αράχνες, κατασκευασμένοι από μετάξι αράχνης ως συμπλεγμένα νήματα ιξώδους πρωτεϊνικού υγρού που στερεοποιούνται κατά την έκθεση στον αέρα.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ιστοί που υφαίνονται από αράχνες, κατασκευασμένοι από μετάξι αράχνης ως συμπλεγμένα νήματα ιξώδους πρωτεϊνικού υγρού που στερεοποιούνται κατά την έκθεση στον αέρα.",
+          "language" : "en",
+          "value" : "Webs that are spun by spiders, made of spider silk as interlaced threads of viscous protein fluid that solidify on exposure to air.",
           "type" : "label"
         } ]
       },
@@ -5061,13 +5019,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Στρώμα σήμανσης",
+          "language" : "en",
+          "value" : "Marking layer",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Marking layer",
+          "language" : "el",
+          "value" : "Στρώμα σήμανσης",
           "type" : "label"
         } ]
       },
@@ -5082,13 +5040,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Keys missing",
+          "language" : "el",
+          "value" : "Απώλεια σφηνών",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απώλεια σφηνών",
+          "language" : "en",
+          "value" : "Keys missing",
           "type" : "label"
         } ]
       },
@@ -5103,24 +5061,24 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Mold",
+          "language" : "el",
+          "value" : "Μούχλα",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Μούχλα",
+          "language" : "en",
+          "value" : "Mold",
           "type" : "label"
         } ],
         "definition" : [ {
           "identifier" : "definition",
-          "language" : "en",
-          "value" : "Various fungi that produce a conspicuous, furry mass of mycelium (masses of vegetative filaments, or hyphae) and fruiting structures, particularly those of the genera Aspergillus, Penicillium, and Rhizopus, which are associated with food spoilage, plant diseases, and damage to artifacts.",
+          "language" : "el",
+          "value" : "Ποικίλοι μύκητες οι οποίοι παράγουν μια διακριτή, τριχωειδή μάζα μυκηλίου (μάζες φυτικών νημάτων ή υφών) και καρποφόρων δομών, ιδίως εκείνων των γενών Aspergillus, Penicillium και Rhizopus, που σχετίζονται με αλλοίωση τροφίμων, ασθένειες των φυτών και βλάβες σε τεχνουργήματα.",
           "type" : "label"
         }, {
           "identifier" : "definition",
-          "language" : "el",
-          "value" : "Ποικίλοι μύκητες οι οποίοι παράγουν μια διακριτή, τριχωειδή μάζα μυκηλίου (μάζες φυτικών νημάτων ή υφών) και καρποφόρων δομών, ιδίως εκείνων των γενών Aspergillus, Penicillium και Rhizopus, που σχετίζονται με αλλοίωση τροφίμων, ασθένειες των φυτών και βλάβες σε τεχνουργήματα.",
+          "language" : "en",
+          "value" : "Various fungi that produce a conspicuous, furry mass of mycelium (masses of vegetative filaments, or hyphae) and fruiting structures, particularly those of the genera Aspergillus, Penicillium, and Rhizopus, which are associated with food spoilage, plant diseases, and damage to artifacts.",
           "type" : "label"
         } ]
       },
@@ -5134,60 +5092,18 @@
         "en" : "Mold"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00197",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Size",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Μέγεθος",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00197",
-        "el" : "Μέγεθος",
-        "en" : "Size"
-      }
-    }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00230",
-      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
-      "annotations" : {
-        "prefLabel" : [ {
-          "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Acrylic coating",
-          "type" : "label"
-        }, {
-          "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ακρυλικό επικαλυπτικό υλικό",
-          "type" : "label"
-        } ]
-      },
-      "labels" : {
-        "IRI-based" : "concept_00230",
-        "el" : "Ακρυλικό επικαλυπτικό υλικό",
-        "en" : "Acrylic coating"
-      }
-    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00076",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Χώμα (επιφανειακή επικάθιση)",
+          "language" : "en",
+          "value" : "Soil (superficial deposit)",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Soil (superficial deposit)",
+          "language" : "el",
+          "value" : "Χώμα (επιφανειακή επικάθιση)",
           "type" : "label"
         } ],
         "definition" : [ {
@@ -5212,46 +5128,46 @@
         "en" : "Soil (superficial deposit)"
       }
     }, {
-      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00077",
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00230",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
           "language" : "en",
-          "value" : "Insect excrement",
+          "value" : "Acrylic coating",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
           "language" : "el",
-          "value" : "Απεκκρίματα εντόμων",
-          "type" : "label"
-        } ],
-        "altLabel" : [ {
-          "identifier" : "altLabel",
-          "language" : "en",
-          "value" : "Insect dropping",
-          "type" : "label"
-        } ],
-        "definition" : [ {
-          "identifier" : "definition",
-          "language" : "en",
-          "value" : "Waste matter discharged from the insects.",
-          "type" : "label"
-        }, {
-          "identifier" : "definition",
-          "language" : "el",
-          "value" : "Απόβλητες ουσίες που αποβάλλονται από έντομα.",
+          "value" : "Ακρυλικό επικαλυπτικό υλικό",
           "type" : "label"
         } ]
       },
-      "comment" : {
-        "el" : "Απόβλητες ουσίες που αποβάλλονται από έντομα.",
-        "en" : "Waste matter discharged from the insects."
+      "labels" : {
+        "IRI-based" : "concept_00230",
+        "el" : "Ακρυλικό επικαλυπτικό υλικό",
+        "en" : "Acrylic coating"
+      }
+    }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00197",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Size",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Μέγεθος",
+          "type" : "label"
+        } ]
       },
       "labels" : {
-        "IRI-based" : "concept_00077",
-        "el" : "Απεκκρίματα εντόμων",
-        "en" : "Insect excrement"
+        "IRI-based" : "concept_00197",
+        "el" : "Μέγεθος",
+        "en" : "Size"
       }
     }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00231",
@@ -5275,18 +5191,60 @@
         "en" : "Oil paint coating"
       }
     }, {
+      "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00077",
+      "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
+      "annotations" : {
+        "prefLabel" : [ {
+          "identifier" : "prefLabel",
+          "language" : "en",
+          "value" : "Insect excrement",
+          "type" : "label"
+        }, {
+          "identifier" : "prefLabel",
+          "language" : "el",
+          "value" : "Απεκκρίματα εντόμων",
+          "type" : "label"
+        } ],
+        "definition" : [ {
+          "identifier" : "definition",
+          "language" : "en",
+          "value" : "Waste matter discharged from the insects.",
+          "type" : "label"
+        }, {
+          "identifier" : "definition",
+          "language" : "el",
+          "value" : "Απόβλητες ουσίες που αποβάλλονται από έντομα.",
+          "type" : "label"
+        } ],
+        "altLabel" : [ {
+          "identifier" : "altLabel",
+          "language" : "en",
+          "value" : "Insect dropping",
+          "type" : "label"
+        } ]
+      },
+      "comment" : {
+        "el" : "Απόβλητες ουσίες που αποβάλλονται από έντομα.",
+        "en" : "Waste matter discharged from the insects."
+      },
+      "labels" : {
+        "IRI-based" : "concept_00077",
+        "el" : "Απεκκρίματα εντόμων",
+        "en" : "Insect excrement"
+      }
+    }, {
       "iri" : "http://w3id.org/dcri-ont/vocabulary/concept_00198",
       "baseIri" : "http://w3id.org/dcri-ont/vocabulary",
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Λίθος",
+          "language" : "en",
+          "value" : "Stone",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Stone",
+          "language" : "el",
+          "value" : "Λίθος",
           "type" : "label"
         } ]
       },
@@ -5301,13 +5259,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Mechanical damage",
+          "language" : "el",
+          "value" : "Απώλεια μηχανικών ιδιοτήτων",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Απώλεια μηχανικών ιδιοτήτων",
+          "language" : "en",
+          "value" : "Mechanical damage",
           "type" : "label"
         } ]
       },
@@ -5343,13 +5301,13 @@
       "annotations" : {
         "prefLabel" : [ {
           "identifier" : "prefLabel",
-          "language" : "el",
-          "value" : "Ίχνη τρέσου",
+          "language" : "en",
+          "value" : "Batten traces",
           "type" : "label"
         }, {
           "identifier" : "prefLabel",
-          "language" : "en",
-          "value" : "Batten traces",
+          "language" : "el",
+          "value" : "Ίχνη τρέσου",
           "type" : "label"
         } ]
       },
@@ -5381,16 +5339,16 @@
       }
     } ],
     "attributes" : [ "external" ],
-    "id" : "5"
+    "id" : "1"
   }, {
     "instances" : 0,
-    "union" : [ "16", "5" ],
+    "union" : [ "16", "1" ],
     "attributes" : [ "union", "anonymous" ],
     "id" : "15"
   }, {
     "iri" : "http://www.w3.org/2002/07/owl#Thing",
     "baseIri" : "http://owl2vowl.de",
-    "id" : "1",
+    "id" : "7",
     "label" : {
       "undefined" : "Thing"
     }
@@ -5481,17 +5439,6 @@
         "value" : "A set of concepts, optionally including statements about semantic relationships between those concepts.",
         "type" : "label"
       } ],
-      "scopeNote" : [ {
-        "identifier" : "scopeNote",
-        "language" : "en",
-        "value" : "A concept scheme may be defined to include concepts from different sources.",
-        "type" : "label"
-      }, {
-        "identifier" : "scopeNote",
-        "language" : "en",
-        "value" : "A concept scheme may be defined to include concepts from different sources.",
-        "type" : "label"
-      } ],
       "example" : [ {
         "identifier" : "example",
         "language" : "en",
@@ -5501,6 +5448,17 @@
         "identifier" : "example",
         "language" : "en",
         "value" : "Thesauri, classification schemes, subject heading lists, taxonomies, 'folksonomies', and other types of controlled vocabulary are all examples of concept schemes. Concept schemes are also embedded in glossaries and terminologies.",
+        "type" : "label"
+      } ],
+      "scopeNote" : [ {
+        "identifier" : "scopeNote",
+        "language" : "en",
+        "value" : "A concept scheme may be defined to include concepts from different sources.",
+        "type" : "label"
+      }, {
+        "identifier" : "scopeNote",
+        "language" : "en",
+        "value" : "A concept scheme may be defined to include concepts from different sources.",
         "type" : "label"
       } ]
     },
@@ -5525,13 +5483,13 @@
         } ],
         "title" : [ {
           "identifier" : "title",
-          "language" : "en",
-          "value" : "DCRIO Vocabulary",
+          "language" : "el",
+          "value" : "DCRIO Λεξιλόγιο",
           "type" : "label"
         }, {
           "identifier" : "title",
-          "language" : "el",
-          "value" : "DCRIO Λεξιλόγιο",
+          "language" : "en",
+          "value" : "DCRIO Vocabulary",
           "type" : "label"
         } ]
       },
@@ -5542,7 +5500,7 @@
       }
     } ],
     "attributes" : [ "external" ],
-    "id" : "2"
+    "id" : "8"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#Collection",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
@@ -5603,7 +5561,7 @@
     "id" : "0",
     "type" : "owl:objectProperty"
   }, {
-    "id" : "4",
+    "id" : "6",
     "type" : "owl:objectProperty"
   }, {
     "id" : "10",
@@ -5627,7 +5585,7 @@
     "id" : "24",
     "type" : "owl:objectProperty"
   }, {
-    "id" : "7",
+    "id" : "3",
     "type" : "owl:objectProperty"
   }, {
     "id" : "25",
@@ -5636,7 +5594,7 @@
     "id" : "26",
     "type" : "owl:disjointWith"
   }, {
-    "id" : "3",
+    "id" : "9",
     "type" : "owl:objectProperty"
   }, {
     "id" : "19",
@@ -5648,10 +5606,10 @@
     "id" : "18",
     "type" : "owl:objectProperty"
   }, {
-    "id" : "8",
+    "id" : "4",
     "type" : "owl:objectProperty"
   }, {
-    "id" : "6",
+    "id" : "2",
     "type" : "owl:objectProperty"
   }, {
     "id" : "27",
@@ -5660,63 +5618,16 @@
     "id" : "29",
     "type" : "owl:datatypeProperty"
   }, {
-    "id" : "9",
+    "id" : "5",
     "type" : "owl:objectProperty"
   }, {
     "id" : "30",
     "type" : "owl:objectProperty"
   } ],
   "propertyAttribute" : [ {
-    "iri" : "http://www.w3.org/2004/02/skos/core#inScheme",
-    "baseIri" : "http://www.w3.org/2004/02/skos/core",
-    "range" : "2",
-    "annotations" : {
-      "isDefinedBy" : [ {
-        "identifier" : "isDefinedBy",
-        "language" : "undefined",
-        "value" : "http://www.w3.org/2004/02/skos/core",
-        "type" : "iri"
-      }, {
-        "identifier" : "isDefinedBy",
-        "language" : "undefined",
-        "value" : "http://www.w3.org/2004/02/skos/core",
-        "type" : "iri"
-      } ],
-      "definition" : [ {
-        "identifier" : "definition",
-        "language" : "en",
-        "value" : "Relates a resource (for example a concept) to a concept scheme in which it is included.",
-        "type" : "label"
-      }, {
-        "identifier" : "definition",
-        "language" : "en",
-        "value" : "Relates a resource (for example a concept) to a concept scheme in which it is included.",
-        "type" : "label"
-      } ],
-      "scopeNote" : [ {
-        "identifier" : "scopeNote",
-        "language" : "en",
-        "value" : "A concept may be a member of more than one concept scheme.",
-        "type" : "label"
-      }, {
-        "identifier" : "scopeNote",
-        "language" : "en",
-        "value" : "A concept may be a member of more than one concept scheme.",
-        "type" : "label"
-      } ]
-    },
-    "label" : {
-      "IRI-based" : "inScheme",
-      "en" : "is in scheme"
-    },
-    "domain" : "1",
-    "subproperty" : [ "3" ],
-    "attributes" : [ "object", "external" ],
-    "id" : "0"
-  }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#semanticRelation",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
-    "range" : "5",
+    "range" : "1",
     "annotations" : {
       "isDefinedBy" : [ {
         "identifier" : "isDefinedBy",
@@ -5756,10 +5667,57 @@
       "IRI-based" : "semanticRelation",
       "en" : "is in semantic relation with"
     },
-    "domain" : "5",
-    "subproperty" : [ "6", "7", "8", "9" ],
-    "attributes" : [ "object", "external" ],
-    "id" : "4"
+    "domain" : "1",
+    "subproperty" : [ "2", "3", "4", "5" ],
+    "attributes" : [ "external", "object" ],
+    "id" : "0"
+  }, {
+    "iri" : "http://www.w3.org/2004/02/skos/core#inScheme",
+    "baseIri" : "http://www.w3.org/2004/02/skos/core",
+    "range" : "8",
+    "annotations" : {
+      "isDefinedBy" : [ {
+        "identifier" : "isDefinedBy",
+        "language" : "undefined",
+        "value" : "http://www.w3.org/2004/02/skos/core",
+        "type" : "iri"
+      }, {
+        "identifier" : "isDefinedBy",
+        "language" : "undefined",
+        "value" : "http://www.w3.org/2004/02/skos/core",
+        "type" : "iri"
+      } ],
+      "definition" : [ {
+        "identifier" : "definition",
+        "language" : "en",
+        "value" : "Relates a resource (for example a concept) to a concept scheme in which it is included.",
+        "type" : "label"
+      }, {
+        "identifier" : "definition",
+        "language" : "en",
+        "value" : "Relates a resource (for example a concept) to a concept scheme in which it is included.",
+        "type" : "label"
+      } ],
+      "scopeNote" : [ {
+        "identifier" : "scopeNote",
+        "language" : "en",
+        "value" : "A concept may be a member of more than one concept scheme.",
+        "type" : "label"
+      }, {
+        "identifier" : "scopeNote",
+        "language" : "en",
+        "value" : "A concept may be a member of more than one concept scheme.",
+        "type" : "label"
+      } ]
+    },
+    "label" : {
+      "IRI-based" : "inScheme",
+      "en" : "is in scheme"
+    },
+    "domain" : "7",
+    "subproperty" : [ "9" ],
+    "attributes" : [ "external", "object" ],
+    "id" : "6"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#closeMatch",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
@@ -5792,16 +5750,16 @@
       "IRI-based" : "closeMatch",
       "en" : "has close match"
     },
-    "superproperty" : [ "9" ],
+    "superproperty" : [ "5" ],
     "domain" : "11",
     "subproperty" : [ "12" ],
-    "attributes" : [ "object", "external", "symmetric" ],
+    "attributes" : [ "symmetric", "external", "object" ],
     "id" : "10"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#hasTopConcept",
-    "inverse" : "3",
+    "inverse" : "9",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
-    "range" : "5",
+    "range" : "1",
     "annotations" : {
       "isDefinedBy" : [ {
         "identifier" : "isDefinedBy",
@@ -5830,12 +5788,12 @@
       "IRI-based" : "hasTopConcept",
       "en" : "has top concept"
     },
-    "domain" : "2",
-    "attributes" : [ "object", "external" ],
+    "domain" : "8",
+    "attributes" : [ "external", "object" ],
     "id" : "13"
   }, {
-    "range" : "2",
-    "domain" : "5",
+    "range" : "8",
+    "domain" : "1",
     "attributes" : [ "object", "anonymous" ],
     "id" : "14"
   }, {
@@ -5871,9 +5829,9 @@
       "IRI-based" : "broadMatch",
       "en" : "has broader match"
     },
-    "superproperty" : [ "19", "9" ],
+    "superproperty" : [ "19", "5" ],
     "domain" : "11",
-    "attributes" : [ "object", "external" ],
+    "attributes" : [ "external", "object" ],
     "id" : "17"
   }, {
     "range" : "16",
@@ -5924,13 +5882,13 @@
       "IRI-based" : "narrower",
       "en" : "has narrower"
     },
-    "superproperty" : [ "6" ],
+    "superproperty" : [ "2" ],
     "domain" : "11",
     "subproperty" : [ "18" ],
     "comment" : {
       "en" : "Narrower concepts are typically rendered as children in a concept hierarchy (tree)."
     },
-    "attributes" : [ "object", "external" ],
+    "attributes" : [ "external", "object" ],
     "id" : "23"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#relatedMatch",
@@ -5964,13 +5922,13 @@
       "IRI-based" : "relatedMatch",
       "en" : "has related match"
     },
-    "superproperty" : [ "8", "9" ],
+    "superproperty" : [ "4", "5" ],
     "domain" : "11",
-    "attributes" : [ "object", "external", "symmetric" ],
+    "attributes" : [ "symmetric", "external", "object" ],
     "id" : "24"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#broaderTransitive",
-    "inverse" : "6",
+    "inverse" : "2",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
     "range" : "11",
     "annotations" : {
@@ -6012,25 +5970,25 @@
       "IRI-based" : "broaderTransitive",
       "en" : "has broader transitive"
     },
-    "superproperty" : [ "4" ],
+    "superproperty" : [ "0" ],
     "domain" : "11",
     "subproperty" : [ "19" ],
-    "attributes" : [ "transitive", "object", "external" ],
-    "id" : "7"
+    "attributes" : [ "external", "object", "transitive" ],
+    "id" : "3"
   }, {
-    "range" : "5",
+    "range" : "1",
     "domain" : "16",
     "attributes" : [ "object", "anonymous" ],
     "id" : "25"
   }, {
-    "range" : "2",
+    "range" : "8",
     "domain" : "16",
     "attributes" : [ "object", "anonymous" ],
     "id" : "26"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#topConceptOf",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
-    "range" : "2",
+    "range" : "8",
     "annotations" : {
       "isDefinedBy" : [ {
         "identifier" : "isDefinedBy",
@@ -6059,10 +6017,10 @@
       "IRI-based" : "topConceptOf",
       "en" : "is top concept in scheme"
     },
-    "superproperty" : [ "0" ],
-    "domain" : "5",
-    "attributes" : [ "object", "external" ],
-    "id" : "3"
+    "superproperty" : [ "6" ],
+    "domain" : "1",
+    "attributes" : [ "external", "object" ],
+    "id" : "9"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#broader",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
@@ -6106,13 +6064,13 @@
       "IRI-based" : "broader",
       "en" : "has broader"
     },
-    "superproperty" : [ "7" ],
+    "superproperty" : [ "3" ],
     "domain" : "11",
     "subproperty" : [ "17" ],
     "comment" : {
       "en" : "Broader concepts are typically rendered as parents in a concept hierarchy (tree)."
     },
-    "attributes" : [ "object", "external" ],
+    "attributes" : [ "external", "object" ],
     "id" : "19"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#exactMatch",
@@ -6151,7 +6109,7 @@
     "comment" : {
       "en" : "skos:exactMatch is disjoint with each of the properties skos:broadMatch and skos:relatedMatch."
     },
-    "attributes" : [ "transitive", "object", "external", "symmetric" ],
+    "attributes" : [ "symmetric", "external", "object", "transitive" ],
     "id" : "12"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#narrowMatch",
@@ -6185,9 +6143,9 @@
       "IRI-based" : "narrowMatch",
       "en" : "has narrower match"
     },
-    "superproperty" : [ "23", "9" ],
+    "superproperty" : [ "23", "5" ],
     "domain" : "11",
-    "attributes" : [ "object", "external" ],
+    "attributes" : [ "external", "object" ],
     "id" : "18"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#related",
@@ -6221,14 +6179,14 @@
       "IRI-based" : "related",
       "en" : "has related"
     },
-    "superproperty" : [ "4" ],
+    "superproperty" : [ "0" ],
     "domain" : "11",
     "subproperty" : [ "24" ],
     "comment" : {
       "en" : "skos:related is disjoint with skos:broaderTransitive"
     },
-    "attributes" : [ "object", "external", "symmetric" ],
-    "id" : "8"
+    "attributes" : [ "symmetric", "external", "object" ],
+    "id" : "4"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#narrowerTransitive",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
@@ -6272,11 +6230,11 @@
       "IRI-based" : "narrowerTransitive",
       "en" : "has narrower transitive"
     },
-    "superproperty" : [ "4" ],
+    "superproperty" : [ "0" ],
     "domain" : "11",
     "subproperty" : [ "23" ],
-    "attributes" : [ "transitive", "object", "external" ],
-    "id" : "6"
+    "attributes" : [ "external", "object", "transitive" ],
+    "id" : "2"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#memberList",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
@@ -6313,7 +6271,7 @@
     "comment" : {
       "en" : "For any resource, every item in the list given as the value of the\n      skos:memberList property is also a value of the skos:member property."
     },
-    "attributes" : [ "object", "external", "functional" ],
+    "attributes" : [ "external", "object", "functional" ],
     "id" : "27"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#notation",
@@ -6393,14 +6351,14 @@
       "IRI-based" : "mappingRelation",
       "en" : "is in mapping relation with"
     },
-    "superproperty" : [ "4" ],
+    "superproperty" : [ "0" ],
     "domain" : "11",
     "subproperty" : [ "10", "24", "18", "17" ],
     "comment" : {
       "en" : "These concept mapping relations mirror semantic relations, and the data model defined below is similar (with the exception of skos:exactMatch) to the data model defined for semantic relations. A distinct vocabulary is provided for concept mapping relations, to provide a convenient way to differentiate links within a concept scheme from links between concept schemes. However, this pattern of usage is not a formal requirement of the SKOS data model, and relies on informal definitions of best practice."
     },
-    "attributes" : [ "object", "external" ],
-    "id" : "9"
+    "attributes" : [ "external", "object" ],
+    "id" : "5"
   }, {
     "iri" : "http://www.w3.org/2004/02/skos/core#member",
     "baseIri" : "http://www.w3.org/2004/02/skos/core",
@@ -6434,7 +6392,7 @@
       "en" : "has member"
     },
     "domain" : "16",
-    "attributes" : [ "object", "external" ],
+    "attributes" : [ "external", "object" ],
     "id" : "30"
   } ]
 }
